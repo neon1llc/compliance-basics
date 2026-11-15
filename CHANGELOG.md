@@ -2,7 +2,7 @@
 
 Compliance Basics releases use `v0.MINOR.PATCH` until the first complete release, v1.0.0, following neon1's [versioning standard](https://neon1.tech/knowledge/standards/versioning/). Each version below has an annotated tag on the commit it names. The release workflow adds missing tags and never moves one.
 
-## [Unreleased]
+## v0.1.3 - 2026-11-15
 
 ### Changed
 - Shorter, plainer wording in the README, walkthroughs, plans, and training guide.
