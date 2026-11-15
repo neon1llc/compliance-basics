@@ -6,7 +6,7 @@ This is training, not legal advice or a compliance determination. Whether a busi
 
 **Status:** the scope is stable. This repository gets accuracy and source updates, and no new modules for now.
 
-- **Walkthroughs:** each one explains one rule in 20 minutes or less: who it covers, what it asks, what staff need to know, and the penalties, with primary sources.
+- **Walkthroughs:** one rule each, in 20 minutes or less: who it covers, what it asks, what staff need to know, and the penalties, with primary sources.
 - **20-day learning plans:** each domain's plan turns the walkthroughs into one task a day. The 20 days are a learning pace, not a timeline or a promise of being compliant at the end.
 
 ## Domains
@@ -32,11 +32,9 @@ Not sure where to start? Every business has [privacy](domains/privacy/20-minutes
 - [Acknowledgment form](templates/acknowledgment-form.md): staff confirm the training and the policies.
 - [Training log](templates/training-log.csv): the record auditors and regulators ask for.
 
-Each walkthrough ends with "Check yourself" questions and answers you can use as a quiz.
-
 ## Who it's for
 
-Owners, office managers, and IT leads at small and midsize businesses and the vendors who serve them, plus trainers and consultants who want open material to teach from. No legal background needed.
+Owners, office managers, and IT leads at small and midsize businesses and their vendors, plus trainers and consultants who want open material to teach from. No legal background needed.
 
 ## What this isn't
 
@@ -51,7 +49,7 @@ These guides explain rules in plain words and point to the official text. They a
 
 ## How a domain is laid out
 
-Each domain is a folder under `domains/` with a README, one or more `20-minutes-to-<rule>.md` walkthroughs, and a `20-days-to-comply.md` learning plan. See [CONTRIBUTING.md](CONTRIBUTING.md) for the page layout and writing rules, and run the check before opening a pull request:
+Each domain is a folder under `domains/` with a README, one or more `20-minutes-to-<rule>.md` walkthroughs, and a `20-days-to-comply.md` plan. See [CONTRIBUTING.md](CONTRIBUTING.md) for page layout and writing rules, and run the check before opening a pull request:
 
 ```
 node tools/check.mjs

@@ -5,7 +5,7 @@ domain: AI use
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to the NIST AI Risk Management Framework](20-minutes-to-nist-ai-rmf.md) and, if you hire in New York City, [20 minutes to NYC Local Law 144](20-minutes-to-nyc-local-law-144.md) first. Each day below is one to two hours of work for the person leading the effort. The 20 days are a learning pace, not a deadline. Finishing the plan doesn't make a business compliant, and this plan is training, not legal advice or a compliance determination. If a step is already done, check it and move on. The order matters more than the day numbers: inventory before risk, and risk before policy.
+Read [20 minutes to the NIST AI Risk Management Framework](20-minutes-to-nist-ai-rmf.md) and, if you hire in New York City, [20 minutes to NYC Local Law 144](20-minutes-to-nyc-local-law-144.md) first. Each day is one to two hours of work for the person leading the effort. The 20 days are a learning pace, not a deadline. Finishing the plan doesn't make a business compliant, and this plan is training, not legal advice or a compliance determination. If a step is already done, check it and move on. Keep the order: inventory before risk, and risk before policy.
 
 ## The plan
 

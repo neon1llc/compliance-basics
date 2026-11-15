@@ -12,7 +12,7 @@ reviewed: 2026-11-12
 
 The Americans with Disabilities Act (ADA) bans discrimination against people with disabilities. Two parts reach websites and apps.
 
-**Title III** covers businesses open to the public, called public accommodations: stores, restaurants, hotels, doctors' and lawyers' offices, banks, schools, gyms, and many more. The Department of Justice's position is that Title III applies to their websites and apps, and that businesses have flexibility in how they make them accessible. DOJ's Title III regulations don't name a technical standard, so in practice businesses, courts, and settlements use WCAG. Federal courts have split on how far Title III reaches websites of businesses with no physical location. Thousands of website accessibility lawsuits are filed each year, many in New York.
+**Title III** covers businesses open to the public, called public accommodations: stores, restaurants, hotels, doctors' and lawyers' offices, banks, schools, gyms, and many more. The Department of Justice's position is that Title III applies to their websites and apps, with flexibility in how businesses make them accessible. DOJ's Title III regulations name no technical standard, so businesses, courts, and settlements use WCAG. Federal courts have split on how far Title III reaches websites of businesses with no physical location. Thousands of website accessibility lawsuits are filed each year, many in New York.
 
 **Title II** covers state and local governments, including public schools, colleges, libraries, courts, transit, and public hospitals. A 2024 DOJ rule requires their web content and mobile apps to meet **WCAG 2.1 Level AA**. In April 2026, DOJ extended the deadlines to **April 26, 2027** for governments serving 50,000 or more people, and **April 26, 2028** for smaller ones and special districts. Vendors that build or host sites and apps for these governments should expect the requirement in their contracts.
 
@@ -42,15 +42,15 @@ The WebAIM Million, a yearly automated scan of the top million home pages, keeps
 - missing document language,
 - and empty or skipped headings.
 
-Automated tools catch only part of WCAG. Keyboard testing and a screen reader check catch much more. Testing with disabled users catches the most.
+Automated tools catch only part of WCAG. Keyboard and screen reader checks catch much more, and testing with disabled users catches the most.
 
 ## Overlays aren't a fix
 
-Overlay widgets that promise one-line-of-code compliance don't fix the underlying code, and many disabled users find them get in the way. In 2025 the FTC ordered one overlay maker, accessiBe, to pay $1 million for deceptively claiming its product could make any website compliant with WCAG.
+Overlay widgets that promise one-line compliance don't fix the underlying code, and many disabled users find them get in the way. In 2025 the FTC ordered one overlay maker, accessiBe, to pay $1 million for deceptively claiming its product could make any website compliant with WCAG.
 
 ## What content and web teams need to know
 
-No law requires a specific accessibility training for private businesses. But accessibility depends on the people who write, design, and build content, so they need to know these points.
+No law requires specific accessibility training for private businesses, but accessibility depends on the people who write, design, and build content. They need to know these points.
 
 1. **Write alt text for meaningful images** that says what the image communicates. Mark decorative images so screen readers skip them.
 2. **Use real headings in order** (one H1, then H2, H3), not bold text that looks like a heading.

@@ -10,9 +10,9 @@ reviewed: 2026-11-12
 
 ## What FERPA is
 
-The Family Educational Rights and Privacy Act (FERPA) is a federal law that gives parents rights over their children's education records, and limits when schools can share personally identifiable information from those records without consent. When a student turns 18 or enters a college or other postsecondary school at any age, the rights move to the student, who becomes an "eligible student."
+The Family Educational Rights and Privacy Act (FERPA) gives parents rights over their children's education records and limits when schools can share personally identifiable information from those records without consent. When a student turns 18 or enters a college or other postsecondary school at any age, the rights move to the student, who becomes an "eligible student."
 
-FERPA applies to educational agencies and institutions that receive funds under a U.S. Department of Education program. That covers nearly every public school and district and most colleges, including private colleges whose students use federal student aid. Most private K-12 schools take no such funds and aren't covered, though state law or contracts may still apply to them.
+FERPA applies to educational agencies and institutions that receive funds under a U.S. Department of Education program. That covers nearly every public school and district and most colleges, including private colleges whose students use federal student aid. Most private K-12 schools take no such funds and aren't covered, though state law or contracts may still apply.
 
 FERPA doesn't directly regulate vendors. It reaches them through the school. A school may share records with a contractor only under the conditions below, and a vendor that rediscloses records improperly can be barred from receiving records from that school for at least five years.
 
@@ -20,7 +20,7 @@ FERPA doesn't directly regulate vendors. It reaches them through the school. A s
 
 Education records are records directly related to a student and kept by the school or by someone acting for it. Grades, transcripts, class schedules, discipline files, special education records, health records kept by a K-12 school nurse, emails about a student, and data in the student information system or a learning app all count. Format doesn't matter.
 
-A few things aren't education records:
+These aren't education records:
 
 - a teacher's private notes kept only for their own use and not shared,
 - records of a school's law enforcement unit made for law enforcement purposes,
@@ -37,13 +37,13 @@ Parents and eligible students have the right to:
 - **consent before disclosure** of personally identifiable information, unless an exception applies.
 - **file a complaint** with the Department of Education's Student Privacy Policy Office.
 
-Each year the school must notify parents and eligible students of these rights. The notice must also say how to inspect records, and who counts as a school official with a legitimate educational interest.
+Each year the school must notify parents and eligible students of these rights, how to inspect records, and who counts as a school official with a legitimate educational interest.
 
 ## When schools can share without consent
 
 FERPA lists exceptions. The common ones:
 
-- **School officials with a legitimate educational interest**, meaning people who need the record to do their job for the school. A contractor or vendor can count as a school official if it performs a service the school would otherwise use employees for, is under the school's direct control for how it uses and maintains the records, and follows FERPA's limits on using and redisclosing them. The school must use reasonable methods, such as access controls, to make sure officials see only the records they need.
+- **School officials with a legitimate educational interest**, meaning people who need the record to do their job for the school. A contractor or vendor can count as a school official if it performs a service the school would otherwise use employees for, is under the school's direct control for how it uses and maintains the records, and follows FERPA's limits on using and redisclosing them. The school must use reasonable methods, such as access controls, so officials see only the records they need.
 - **Another school** where the student seeks or intends to enroll.
 - **Directory information**, such as name, address, phone, email, photo, dates of attendance, and honors, but only if the school has given public notice of what it treats as directory information and a chance to opt out. Social Security numbers are never directory information.
 - **Health or safety emergencies**, when the information is needed to protect the student or others.
@@ -51,7 +51,7 @@ FERPA lists exceptions. The common ones:
 - **Audits and evaluations** by authorized officials, **studies** for or on behalf of the school under a written agreement, **accrediting organizations**, and **financial aid**.
 - **Parents of a dependent college student**, as defined by the tax code.
 
-Schools must keep a record of most disclosures, kept with the student's file, showing who requested or received the information and their legitimate interest. Disclosures to school officials, to the parent or eligible student, of directory information, or with written consent don't need to be logged this way.
+Schools must keep a record of most disclosures with the student's file, showing who requested or received the information and their legitimate interest. Disclosures to school officials, to the parent or eligible student, of directory information, or with written consent don't need to be logged this way.
 
 ## Vendors and edtech
 
@@ -84,7 +84,7 @@ Other states have their own student privacy laws. Check yours.
 
 FERPA itself doesn't require training, but schools can't comply without it, and New York requires it each year. A session should leave people able to act on these points.
 
-1. **Student records are confidential by default.** Share only with school officials who need them for their job, or under a listed exception.
+1. **Treat student records as confidential by default.** Share only with school officials who need them for their job, or under a listed exception.
 2. **Check before you share with a parent.** Confirm identity, and check for custody orders or an eligible student. Once a student is 18 or in college, the rights are theirs.
 3. **Know what your school treats as directory information**, and check the opt-out list before releasing any of it.
 4. **Don't sign up for apps on your own.** Use tools the school has approved and has a contract for.
@@ -106,7 +106,7 @@ FERPA itself doesn't require training, but schools can't comply without it, and 
 
 ## Penalties and enforcement
 
-The Student Privacy Policy Office investigates complaints. Its aim is voluntary compliance, and the law's ultimate penalty is the loss of Department of Education funding, which in practice is very rare. A third party that improperly rediscloses records can be barred from receiving records from the school for at least five years. Individuals can't sue under FERPA itself, as the Supreme Court held in *Gonzaga University v. Doe* (2002). State laws, such as New York's, add their own enforcement, including penalties for third-party contractors.
+The Student Privacy Policy Office investigates complaints. Its aim is voluntary compliance, and the law's ultimate penalty is the loss of Department of Education funding, which is very rare in practice. A third party that improperly rediscloses records can be barred from receiving records from the school for at least five years. Individuals can't sue under FERPA itself, as the Supreme Court held in *Gonzaga University v. Doe* (2002). State laws, such as New York's, add their own enforcement, including penalties for third-party contractors.
 
 ## Common mistakes
 

@@ -10,7 +10,7 @@ reviewed: 2026-11-12
 
 ## What CAN-SPAM is
 
-The CAN-SPAM Act sets the rules for commercial email in the United States. It doesn't require permission before sending. It requires honesty, identification, and a working way to opt out. It covers business-to-business email as well as email to consumers, and the FTC can hold both the business whose product is promoted and the business that sends the message responsible.
+The CAN-SPAM Act sets the rules for commercial email in the United States. It doesn't require permission before sending. It requires honesty, identification, and a working way to opt out. It covers business-to-business email as well as consumer email, and the FTC can hold both the business whose product is promoted and the business that sends the message responsible.
 
 ## Which messages it covers
 
@@ -41,7 +41,7 @@ Since February 2024, Gmail and Yahoo have required bulk senders, roughly those s
 - offer one-click unsubscribe in the message headers for marketing mail, and honor it within two days,
 - and keep spam complaint rates low (Google sets 0.3 percent as the ceiling).
 
-These aren't laws, but missing them sends your mail to spam or gets it rejected. Smaller senders benefit from authentication too. It also protects your domain from being spoofed in phishing.
+These aren't laws, but missing them sends your mail to spam or gets it rejected. Smaller senders benefit from authentication too, because it protects your domain from being spoofed in phishing.
 
 ## Other laws that can apply
 

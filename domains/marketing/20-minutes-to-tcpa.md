@@ -12,7 +12,7 @@ reviewed: 2026-11-12
 
 The Telephone Consumer Protection Act (TCPA) limits calls and text messages to consumers. Courts treat a text message as a call under the law. The Federal Communications Commission (FCC) writes the rules. The FTC's Telemarketing Sales Rule adds requirements for telemarketing and runs the National Do Not Call Registry.
 
-What makes the TCPA expensive is that consumers can sue directly. Statutory damages are **$500 per call or text**, and up to **$1,500** if the violation was willful or knowing. A campaign of a few thousand messages to people who didn't consent can turn into a class action worth millions.
+The TCPA is expensive because consumers can sue directly. Statutory damages are **$500 per call or text**, and up to **$1,500** if the violation was willful or knowing. A campaign of a few thousand messages to people who didn't consent can become a class action worth millions.
 
 ## Consent: the core rule
 

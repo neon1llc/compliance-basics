@@ -47,7 +47,7 @@ Schools also have FERPA obligations for the same data. See [20 minutes to FERPA]
 
 ## What the team needs to know
 
-COPPA doesn't set a training requirement, but its written security program requirement expects people to know their part. Product, engineering, marketing, and support staff should be able to act on these points.
+COPPA sets no training requirement, but its written security program expects people to know their part. Product, engineering, marketing, and support staff should be able to act on these points.
 
 1. **Know whether the service is child-directed or mixed audience**, and where the age screen sits.
 2. **Collect nothing from a child before consent** except what an exception allows.
