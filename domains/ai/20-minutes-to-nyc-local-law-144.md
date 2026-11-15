@@ -12,7 +12,7 @@ reviewed: 2026-11-12
 
 Local Law 144 regulates **automated employment decision tools (AEDTs)**: computational processes based on machine learning, statistical modeling, data analytics, or AI that issue a simplified output, such as a score, classification, or recommendation, used to substantially assist or replace discretionary decision making for employment decisions. The Department of Consumer and Worker Protection (DCWP) has enforced it since July 5, 2023.
 
-Under DCWP's rules, a tool "substantially assists or replaces" a decision when its output is the only criterion, carries more weight than any other criterion, or is used to overrule a human's conclusion. A tool that only helps a recruiter search a database, with people making the actual judgment, may fall outside the definition. Many employers apply the law's practices anyway, because the line is narrow and other laws apply.
+Under DCWP's rules, a tool "substantially assists or replaces" a decision when its output is the only criterion, carries more weight than any other criterion, or is used to overrule a human's conclusion. A tool that only helps a recruiter search a database, with people making the judgment, may fall outside the definition. Many employers follow the law's practices anyway, because the line is narrow and other laws apply.
 
 ## What it requires
 

@@ -6,7 +6,7 @@ rules: "FDA 21 CFR Parts 11, 58, 210, 211, 312, and 820, ICH E6(R3), and EU GMP 
 reviewed: 2026-11-12
 ---
 
-**Read this if** you work at or for a company that makes, tests, studies, or ships drugs, biologics, medical devices, or dietary supplements. That includes contract manufacturers and labs, clinical research sites and CROs, and the IT providers, software vendors, and consultants who run or validate the systems they use.
+**Read this if** you work at or for a company that makes, tests, studies, or ships drugs, biologics, medical devices, or dietary supplements. That includes contract manufacturers and labs, clinical research sites and CROs, and the IT providers, software vendors, and consultants who run or validate their systems.
 
 ## What "GxP" means
 
@@ -20,19 +20,24 @@ GxP is shorthand for the "good practice" rules in regulated life sciences. The x
 | GDP | Storing and distributing products | EU GDP guidelines, and in the U.S. the Drug Supply Chain Security Act and state wholesale licensing |
 | Part 11 | Electronic records and signatures in any of the above | 21 CFR Part 11 |
 
-"GDP" is also used informally for good documentation practice, the habits behind trustworthy records. This guide calls that "good documentation" to keep the two apart.
+"GDP" is also used informally for good documentation practice. This guide calls that "good documentation" to keep the two apart.
 
-The rules differ by area, but they share one idea. If it isn't written down correctly, at the time, by the person who did it, the regulator treats it as if it didn't happen. Each rule then asks for trained people, written procedures, controlled changes, and records that prove the work was done as written.
+The rules differ by area but share one idea. If it isn't written down correctly, at the time, by the person who did it, the regulator treats it as if it didn't happen. Each rule asks for trained people, written procedures, controlled changes, and records that prove the work was done as written.
 
 ## The shared core
 
 ### Written procedures
 
-Work follows approved standard operating procedures (SOPs). People use the current version, and changes go through a controlled review before anyone works to the new one. A procedure that lives in someone's head, or in an uncontrolled copy on a desktop, fails an inspection.
+Work follows approved standard operating procedures (SOPs). People use the current version, and changes go through controlled review before anyone works to the new one. A procedure that lives in someone's head, or in an uncontrolled copy on a desktop, fails an inspection.
 
 ### Trained and qualified people
 
-Each GxP rule requires that people have the education, training, and experience for their tasks. The drug GMP rule goes further. It says training must cover the specific operations each person performs and the GMP rules and procedures that apply to them, that qualified people must give it, and that it must happen often enough that people stay familiar with the requirements. The GLP rule requires a current summary of training and experience and a job description for each person on a study. Part 11 requires that people who build, maintain, or use electronic record systems are trained for those tasks. For clinical trials, ICH E6(R3) expects investigators and trial staff to be qualified by education, training, and experience, with that qualification documented.
+Each GxP rule requires education, training, and experience for the task. The details differ:
+
+- **Drug GMP.** Training must cover each person's specific operations and the GMP rules that apply, be given by qualified people, and be frequent enough that people stay familiar with the requirements.
+- **GLP.** Each person on a study needs a current summary of training and experience and a job description.
+- **Part 11.** People who build, maintain, or use electronic record systems must be trained for those tasks.
+- **Clinical trials.** ICH E6(R3) expects investigators and trial staff to be qualified by education, training, and experience, with that documented.
 
 ### Records you can trust (data integrity)
 
@@ -45,15 +50,15 @@ Regulators describe trustworthy records with the acronym ALCOA, often extended t
 - **Accurate**: correct and complete, with errors corrected openly.
 - The "+" adds complete, consistent, enduring, and available.
 
-In practice that means single-line strikethrough with initials, date, and reason for paper corrections, no white-out, no pencil, no backdating, no sticky notes as the record, and no shared logins.
+On paper, that means single-line strikethrough with initials, date, and reason. No white-out, no pencil, no backdating, no sticky notes as the record, and no shared logins.
 
 ### Controlled change
 
-Equipment, processes, documents, and computer systems change only through a documented change control process that weighs the effect on product quality or data before the change is made.
+Equipment, processes, documents, and computer systems change only through documented change control, which weighs the effect on product quality or data before the change is made.
 
 ### Deviations and CAPA
 
-When something goes wrong, people record it as a deviation, investigate the root cause, and fix it through corrective and preventive action (CAPA). An organization with no deviations isn't flawless. Inspectors read it as one that doesn't record them.
+When something goes wrong, people record a deviation, investigate the root cause, and fix it through corrective and preventive action (CAPA). An organization with no deviations isn't flawless. Inspectors read it as one that doesn't record them.
 
 ## Electronic records: Part 11 and Annex 11
 
@@ -65,29 +70,29 @@ When something goes wrong, people record it as a deviation, investigate the root
 - written policies that hold people accountable for actions taken under their electronic signature,
 - and training for the people who develop, maintain, or use the system.
 
-Electronic signatures need at least two distinct parts, such as a user ID and password, and each one belongs to one person only.
+Electronic signatures need at least two distinct parts, such as a user ID and password, and each belongs to one person only.
 
 FDA's 2003 guidance on Part 11 scope says it enforces the rule with a risk-based approach, focusing on validation, audit trails, record retention, and copies. Its 2025 guidance on computer software assurance encourages testing effort proportional to risk, instead of exhaustive scripted testing for every feature.
 
-In the European Union, EudraLex Volume 4 Annex 11 covers computerized systems in GMP. It lines up closely with Part 11 and adds expectations for supplier assessment, periodic review, and data backup.
+In the European Union, EudraLex Volume 4 Annex 11 covers computerized systems in GMP. It closely matches Part 11 and adds expectations for supplier assessment, periodic review, and data backup.
 
-For IT teams, this is where GxP lands. A server patch, a database migration, a password reset, or a new cloud service that touches a GxP system is a regulated change. Admin accounts that can edit records or switch off audit trails are among the first things an inspector checks.
+For IT teams, a server patch, a database migration, a password reset, or a new cloud service that touches a GxP system is a regulated change. Admin accounts that can edit records or switch off audit trails are among the first things an inspector checks.
 
 ## Area by area
 
 ### GMP: manufacturing and testing
 
-Drug GMP covers buildings, equipment, components, production and process controls, packaging and labeling, holding and distribution, lab controls, and records. A drug made without following CGMP is legally "adulterated" under the Federal Food, Drug, and Cosmetic Act, even if it turns out to be fine.
+Drug GMP covers buildings, equipment, components, production and process controls, packaging and labeling, holding and distribution, lab controls, and records. A drug made without following CGMP is legally "adulterated" under the Federal Food, Drug, and Cosmetic Act, even if it turns out fine.
 
 Device makers follow the Quality Management System Regulation (QMSR), 21 CFR Part 820. Since February 2, 2026 it incorporates the international standard ISO 13485:2016 by reference, in place of FDA's older Quality System Regulation. ISO 13485 requires the organization to determine the competence people need, provide training, check that it worked, and keep records.
 
 ### GLP: nonclinical lab studies
 
-GLP covers the lab studies, such as animal toxicology, that support an application to FDA. It requires a study director with overall responsibility, an independent quality assurance unit that inspects the study, written protocols and SOPs, and archived raw data. FDA can disqualify a testing facility that fails GLP, and then studies from that facility can be rejected.
+GLP covers lab studies, such as animal toxicology, that support an application to FDA. It requires a study director with overall responsibility, an independent quality assurance unit that inspects the study, written protocols and SOPs, and archived raw data. FDA can disqualify a testing facility that fails GLP, and studies from that facility can then be rejected.
 
 ### GCP: clinical trials
 
-GCP protects trial participants and makes sure trial data are credible. FDA's rules cover informed consent (Part 50), institutional review boards (Part 56), and the duties of sponsors and investigators (Parts 312 and 812). The international guideline is ICH E6. Its third revision, E6(R3), was finalized by ICH in January 2025, took effect in the EU in July 2025, and was published by FDA as guidance in September 2025. E6(R3) puts more weight on quality by design and risk-proportionate trial management, and gives clearer expectations for computerized systems and data governance.
+GCP protects trial participants and makes sure trial data are credible. FDA's rules cover informed consent (Part 50), institutional review boards (Part 56), and the duties of sponsors and investigators (Parts 312 and 812). The international guideline is ICH E6. Its third revision, E6(R3), was finalized by ICH in January 2025, took effect in the EU in July 2025, and was published by FDA as guidance in September 2025. E6(R3) puts more weight on quality by design and risk-proportionate trial management, and sets clearer expectations for computerized systems and data governance.
 
 Site staff need training on the protocol, their delegated tasks, and GCP. The delegation log shows who may do what, and training records must back it up.
 
@@ -97,16 +102,16 @@ GDP keeps products safe between the factory and the patient: temperature control
 
 ## What every workforce member needs to know
 
-Training for GxP roles is task specific, so a general session can't replace training on each person's own SOPs. Everyone who works in or supports a GxP area should still be able to act on these points.
+Training for GxP roles is task specific, so a general session can't replace training on each person's own SOPs. Everyone in or supporting a GxP area should still be able to act on these points.
 
-1. **Follow the current approved procedure.** If it can't be followed as written, stop and raise it. Don't improvise and fix the paperwork later.
+1. **Follow the current approved procedure.** If you can't follow it as written, stop and raise it. Don't improvise and fix the paperwork later.
 2. **Record it when you do it.** Write or enter results at the time, in the approved place.
 3. **Never share a login or sign for someone else.** Your signature, wet or electronic, says you did it or reviewed it.
 4. **Correct records openly.** One line through the error, the right value, your initials, the date, and the reason. In systems, use the correction function so the audit trail shows it.
 5. **Never delete, overwrite, or re-run to get a passing result.** Testing into compliance is one of the most serious findings FDA issues.
 6. **Report deviations right away**, including your own mistakes.
 7. **Do only the tasks you're trained for**, and only once your training on the current version is recorded.
-8. **Know that IT changes are regulated changes.** Patches, upgrades, and configuration changes on GxP systems go through change control.
+8. **Treat IT changes as regulated changes.** Patches, upgrades, and configuration changes on GxP systems go through change control.
 9. **Keep records for the full retention period**, which can run years past the product's expiry or the study's end.
 10. **Treat inspectors professionally.** Answer what's asked, truthfully, and know who your inspection host is.
 
@@ -122,7 +127,7 @@ Training for GxP roles is task specific, so a general session can't replace trai
 
 ## Penalties and enforcement
 
-FDA inspects regulated sites and lists problems on a Form FDA 483 at the end of an inspection. Serious or repeated problems lead to a warning letter, which FDA publishes. Beyond that, FDA can refuse or delay product approvals, place import alerts that stop products at the border, seek seizures and injunctions, and enter consent decrees that put a company under court supervision. Clinical investigators and nonclinical labs can be disqualified. Some violations carry criminal liability under the Food, Drug, and Cosmetic Act.
+FDA inspects regulated sites and lists problems on a Form FDA 483 at the end of an inspection. Serious or repeated problems lead to a warning letter, which FDA publishes. FDA can also refuse or delay product approvals, place import alerts that stop products at the border, seek seizures and injunctions, and enter consent decrees that put a company under court supervision. Clinical investigators and nonclinical labs can be disqualified. Some violations carry criminal liability under the Food, Drug, and Cosmetic Act.
 
 Lack of adequate training is a regular citation in warning letters. So are incomplete records, missing audit trails, shared logins, and unvalidated systems.
 

@@ -10,13 +10,13 @@ reviewed: 2026-11-12
 
 ## Why a framework
 
-Many of the laws in this repository say "reasonable safeguards" without spelling them out. The New York SHIELD Act, the FTC's reading of Section 5, and state privacy laws all work that way. Cyber insurance applications, customer security questionnaires, and contracts ask the same question in their own words. A recognized framework gives you a checklist, a shared vocabulary, and evidence that your safeguards are reasonable. New York's student data regulations go further and require schools to align their policies with the NIST Cybersecurity Framework.
+Many of the laws in this repository say "reasonable safeguards" without spelling them out, including the New York SHIELD Act, the FTC's reading of Section 5, and state privacy laws. Cyber insurance applications, customer questionnaires, and contracts ask the same question. A recognized framework gives you a checklist, a shared vocabulary, and evidence that your safeguards are reasonable. New York's student data regulations go further and require schools to align their policies with the NIST Cybersecurity Framework.
 
-Two free frameworks suit small businesses best. The **NIST Cybersecurity Framework (CSF)** describes what a security program should achieve. The **CIS Critical Security Controls** list specific safeguards in priority order. Using them together works well: CSF for the shape of the program, CIS for the first concrete steps.
+Two free frameworks suit small businesses. The **NIST Cybersecurity Framework (CSF)** describes what a security program should achieve. The **CIS Critical Security Controls** list specific safeguards in priority order. Use CSF for the shape of the program and CIS for the first concrete steps.
 
 ## The NIST Cybersecurity Framework 2.0
 
-NIST published CSF 2.0 on February 26, 2024. It was written for organizations of any size and sector, not only critical infrastructure, and NIST publishes quick-start guides, including one for small businesses, alongside it.
+NIST published CSF 2.0 on February 26, 2024, for organizations of any size and sector, not only critical infrastructure. NIST also publishes quick-start guides, including one for small businesses.
 
 CSF 2.0 organizes outcomes into six functions.
 
@@ -29,13 +29,13 @@ CSF 2.0 organizes outcomes into six functions.
 | Respond | What do we do when it happens? | An incident plan with phone numbers, roles, and notice deadlines |
 | Recover | How do we get back to normal? | Tested restores, a plan for working without systems, lessons learned |
 
-Govern is new in version 2.0. It puts security decisions, supply chain risk, and accountability with leadership, where they belong.
+Govern is new in version 2.0. It puts security decisions, supply chain risk, and accountability with leadership.
 
-Each function breaks into categories and subcategories, such as "Personnel are provided with awareness and training so that they possess the knowledge and skills to perform general tasks with cybersecurity risks in mind" (PR.AT-01). You don't have to do every subcategory. CSF's method is to describe your **current profile** (where you are), choose a **target profile** (where you need to be), and work the gap in priority order.
+Each function breaks into categories and subcategories, such as "Personnel are provided with awareness and training so that they possess the knowledge and skills to perform general tasks with cybersecurity risks in mind" (PR.AT-01). You don't have to do every subcategory. Describe your **current profile**, choose a **target profile**, and work the gap in priority order.
 
 ## The CIS Critical Security Controls
 
-The Center for Internet Security publishes 18 controls broken into specific safeguards. Version 8.1 (June 2024) aligns them with CSF 2.0, including a Govern function tag. The safeguards are grouped into three **implementation groups**. Implementation Group 1 (IG1) is described as essential cyber hygiene, the minimum every organization should have. It's the right starting point for most small businesses.
+The Center for Internet Security publishes 18 controls broken into specific safeguards. Version 8.1 (June 2024) aligns them with CSF 2.0, including a Govern function tag. The safeguards fall into three **implementation groups**. Implementation Group 1 (IG1) is essential cyber hygiene, the minimum every organization should have, and the right starting point for most small businesses.
 
 IG1 covers things like:
 
@@ -60,7 +60,7 @@ IG1 covers things like:
 
 ## What security training should cover
 
-Training is a control in every framework above. NIST's guide to building a learning program, SP 800-50 Rev. 1 (2024), recommends tying training to the organization's actual risks and roles and measuring whether it changes behavior. For general staff, that comes down to a short list.
+Training is a control in every framework above. NIST's guide to building a learning program, SP 800-50 Rev. 1 (2024), recommends tying training to the organization's actual risks and roles and measuring whether it changes behavior. For general staff, that comes down to this list.
 
 1. **Use MFA, and never approve a prompt you didn't start.**
 2. **Use a password manager** and a different password for each account.
@@ -72,9 +72,9 @@ Training is a control in every framework above. NIST's guide to building a learn
 8. **Report incidents fast**, including your own mistakes. Speed limits damage.
 9. **Know who to call**, day and night.
 
-People with more access, such as admins, finance staff, and executives, need extra training on the risks aimed at them: admin account protection, payment fraud, and impersonation.
+Admins, finance staff, and executives need extra training on the risks aimed at them: admin account protection, payment fraud, and impersonation.
 
-For a ready-made awareness session, see [Phishing Awareness Kit](https://github.com/neon1llc/phishing-awareness-kit). For the home side of staff security, see [Household Tech Handbook](https://github.com/neon1llc/household-tech-handbook).
+For a ready-made awareness session, see [Phishing Awareness Kit](https://github.com/neon1llc/phishing-awareness-kit). For home security, see [Household Tech Handbook](https://github.com/neon1llc/household-tech-handbook).
 
 ## What the business needs on paper
 

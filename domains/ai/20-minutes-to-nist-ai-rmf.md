@@ -10,7 +10,7 @@ reviewed: 2026-11-12
 
 ## The rules that already apply
 
-There's no single U.S. AI law. That doesn't leave AI unregulated. The laws you already follow apply when AI is involved:
+There's no single U.S. AI law, but the laws you already follow apply when AI is involved:
 
 - **Confidentiality and privacy.** Pasting patient records, client tax returns, student data, or card numbers into an AI tool is a disclosure. HIPAA, the FTC Safeguards Rule, FERPA, PCI DSS, and state privacy laws apply to it the same way they apply to email or any other vendor. Use only tools your business has approved and has a contract with, and check whether the vendor uses your inputs to train its models.
 - **Consumer protection.** The FTC has said there's no AI exemption from the laws on its books. Claims about what your AI product can do must be true and backed by evidence, and AI-generated fake reviews are banned under the FTC's 2024 rule on consumer reviews and testimonials.
@@ -21,13 +21,13 @@ Some places have AI-specific rules too. New York City requires bias audits and n
 
 ## The EU AI Act and AI literacy
 
-The EU AI Act applies to businesses that provide or use AI systems in the EU, including U.S. businesses whose AI output is used there. Its ban on certain practices and its **AI literacy** duty took effect February 2, 2025. Article 4 requires providers and deployers of AI systems to take measures for the AI literacy of their staff and others using AI on their behalf, taking into account their knowledge, experience, and the context of use. A 2026 amendment (the "AI Omnibus") softened the wording to measures that support AI literacy, without guaranteeing any individual's level, and gave the Commission and member states a role in guidance. The same amendment moved most high-risk system rules to December 2027 and August 2028.
+The EU AI Act applies to businesses that provide or use AI systems in the EU, including U.S. businesses whose AI output is used there. Its ban on certain practices and its **AI literacy** duty took effect February 2, 2025. Article 4 requires providers and deployers of AI systems to take measures for the AI literacy of their staff and others using AI on their behalf, taking into account their knowledge, experience, and the context of use. A 2026 amendment (the "AI Omnibus") softened the wording to measures that support AI literacy, without guaranteeing any individual's level, and gave the Commission and member states a role in guidance. It also moved most high-risk system rules to December 2027 and August 2028.
 
-For a U.S. small business with EU customers, the practical step is the same either way: train the people who use AI tools, and keep a record of it.
+For a U.S. small business with EU customers, the step is the same either way: train the people who use AI tools, and keep a record.
 
 ## The NIST AI Risk Management Framework
 
-NIST released the AI Risk Management Framework (AI RMF 1.0) in January 2023, and a companion Generative AI Profile (NIST AI 600-1) in July 2024. It's voluntary and free, and it gives a business a way to think about AI risk that regulators recognize. It describes trustworthy AI as valid and reliable, safe, secure and resilient, accountable and transparent, explainable and interpretable, privacy-enhanced, and fair with harmful bias managed.
+NIST released the AI Risk Management Framework (AI RMF 1.0) in January 2023, and a companion Generative AI Profile (NIST AI 600-1) in July 2024. It's voluntary and free, and regulators recognize it. It describes trustworthy AI as valid and reliable, safe, secure and resilient, accountable and transparent, explainable and interpretable, privacy-enhanced, and fair with harmful bias managed.
 
 The framework has four functions:
 
@@ -42,7 +42,7 @@ The Generative AI Profile names risks specific to generative tools, including ma
 
 ## A simple AI use policy
 
-A one- or two-page policy covers most small businesses:
+A one- or two-page policy covers most small businesses. Include:
 
 1. **Approved tools.** List them. Business accounts with data protection terms beat free personal accounts.
 2. **Data rules.** What can never go into an AI tool (for example, regulated personal data, credentials, and client confidential material unless the tool is approved for it), and what can.

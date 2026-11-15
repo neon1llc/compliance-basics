@@ -4,7 +4,7 @@ description: "How to turn any walkthrough in this repository into a short traini
 reviewed: 2026-11-12
 ---
 
-Most rules in this repository require training, or expect it, and nearly all of them expect proof that it happened. This guide is for the owner, office manager, or IT lead who has to run that training without a learning management system or a big budget.
+Most rules in this repository require or expect training, and nearly all expect proof it happened. This guide is for the owner, office manager, or IT lead who has to run that training without a learning management system or a big budget.
 
 ## Pick the format
 
@@ -14,13 +14,13 @@ Most rules in this repository require training, or expect it, and nearly all of 
 | Short session | 30 minutes | A team meeting: the walkthrough's staff points, two or three real examples, and the check questions out loud. |
 | Workshop | 60 to 90 minutes | First-time training, or a group that handles regulated data all day. Add a scenario exercise and the 20-day plan's first steps. |
 
-Pick based on risk. People who handle patient records, card data, client tax files, or student records all day get the longer format the first time. Everyone else can usually do the short session or self-study, with a refresher each year.
+Pick by risk. People who handle patient records, card data, client tax files, or student records all day get the longer format the first time. Everyone else can usually do the short session or self-study, with a yearly refresher.
 
 ## Prepare (about an hour)
 
 1. **Choose the walkthrough** for your domain, and read it yourself.
-2. **Pull out your own policies.** Training on the rule alone isn't enough. People need to know your procedures: who the privacy officer is, which tools are approved, how to report an incident, and where forms live. Most rules require training on the organization's own policies.
-3. **Collect two or three local examples.** A misdirected email last year, a phishing message staff received, a near miss at the front desk. Remove names. Real examples are what people remember.
+2. **Pull out your own policies.** Training on the rule alone isn't enough. Most rules require training on your own policies and procedures: who the privacy officer is, which tools are approved, how to report an incident, and where forms live.
+3. **Collect two or three local examples**, with names removed: a misdirected email, a phishing message staff received, a near miss at the front desk. People remember real examples.
 4. **Print or share** the walkthrough's "What every staff member needs to know" list as a one-page handout.
 5. **Prepare the acknowledgment form.** Fill in the policy names and version dates on the [acknowledgment form](../templates/acknowledgment-form.md).
 
@@ -34,7 +34,7 @@ Pick based on risk. People who handle patient records, card data, client tax fil
 | 22 to 27 | The "Check yourself" questions, answered out loud. |
 | 27 to 30 | Who to call, how to report, and where the policies live. Hand out the acknowledgment form. |
 
-Keep the tone practical. People report mistakes faster when they believe reporting is expected and won't be punished for honest errors. Say that plainly, and make sure your sanctions policy agrees with it for good-faith reporting.
+Keep the tone practical. People report mistakes faster when reporting is expected and honest errors aren't punished. Say so plainly, and make sure your sanctions policy agrees for good-faith reporting.
 
 ## For a workshop, add a scenario
 
@@ -68,7 +68,7 @@ The [training log](../templates/training-log.csv) has these columns. Keep record
 
 ## Measure whether it worked
 
-Attendance is a record, not a result. Better signs: more incident reports (including near misses), fewer repeat mistakes, faster responses to records requests, and fewer people clicking phishing tests. Pick one or two and look at them before the next session.
+Attendance is a record, not a result. Better signs are more incident reports (including near misses), fewer repeat mistakes, faster responses to records requests, and fewer clicks on phishing tests. Pick one or two and check them before the next session.
 
 ## Related material
 

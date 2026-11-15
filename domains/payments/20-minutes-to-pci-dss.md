@@ -1,28 +1,28 @@
 ---
 title: "20 minutes to PCI DSS"
-description: "What the card industry's security standard asks of any business that takes card payments, what staff need to know."
+description: "What the card industry's security standard asks of any business that takes card payments, and what staff need to know."
 domain: Payments
 rules: "PCI Data Security Standard (PCI DSS) v4.0.1"
 reviewed: 2026-11-12
 ---
 
-**Read this if** your business takes credit or debit cards in any way: a card terminal at the counter, a phone order, an online checkout, or an invoice with a pay link. It also applies to service providers that handle card data for others or can affect its security, such as payment processors, hosting providers, and IT firms that manage a merchant's network.
+**Read this if** your business takes credit or debit cards in any way: a terminal at the counter, a phone order, an online checkout, or an invoice with a pay link. It also applies to service providers that handle card data for others or can affect its security, such as payment processors, hosting providers, and IT firms that manage a merchant's network.
 
 ## What PCI DSS is
 
-The Payment Card Industry Data Security Standard (PCI DSS) is a set of security requirements for protecting card data. The PCI Security Standards Council publishes it. The Council was founded by the major card brands (American Express, Discover, JCB, Mastercard, and Visa).
+The Payment Card Industry Data Security Standard (PCI DSS) is a set of security requirements for protecting card data. The PCI Security Standards Council publishes it. The major card brands (American Express, Discover, JCB, Mastercard, and Visa) founded the Council.
 
-PCI DSS is not a law. It reaches you through contracts. When you sign up with a payment processor or bank (your "acquirer"), the agreement requires you to comply with PCI DSS and the card brands' rules. The acquirer or the card brand decides how you prove it, and what happens if you don't.
+PCI DSS is not a law. It reaches you through contracts. When you sign up with a payment processor or bank (your "acquirer"), the agreement requires you to comply with PCI DSS and the card brands' rules. The acquirer or the card brand decides how you prove it and what happens if you don't.
 
-The current version is v4.0.1, published in June 2024. Its "future-dated" requirements, which v4.0 gave organizations time to prepare for, became mandatory on March 31, 2025. In June 2026 the Council opened a request for comments on v4.0.1 as the first step toward the next version, so expect a revision in the coming years.
+The current version is v4.0.1, published in June 2024. Its "future-dated" requirements became mandatory on March 31, 2025. In June 2026 the Council opened a request for comments on v4.0.1 as the first step toward the next version, so expect a revision in the coming years.
 
 ## What card data is
 
 PCI DSS protects two kinds of data.
 
-**Cardholder data** is the primary account number (PAN, the long number on the card), plus the cardholder name, expiration date, and service code when they're stored with the PAN. The PAN is what makes data in scope.
+**Cardholder data** is the primary account number (PAN, the long number on the card), plus the cardholder name, expiration date, and service code when stored with the PAN. The PAN is what puts data in scope.
 
-**Sensitive authentication data** is the full magnetic stripe or chip data, the three- or four-digit card verification code (CVV2, CVC2, CID), and PINs or PIN blocks. You may not keep sensitive authentication data after a transaction is authorized, even if you encrypt it. Writing down the security code from a phone order "for later" breaks this rule.
+**Sensitive authentication data** is the full magnetic stripe or chip data, the three- or four-digit card verification code (CVV2, CVC2, CID), and PINs or PIN blocks. You may not keep it after a transaction is authorized, even encrypted. Writing down the security code from a phone order "for later" breaks this rule.
 
 The cardholder data environment (CDE) is the people, processes, and technology that store, process, or send card data, plus anything connected to them. The smaller your CDE, the less of the standard applies to you.
 
@@ -30,7 +30,7 @@ The cardholder data environment (CDE) is the people, processes, and technology t
 
 Most small merchants prove compliance each year with a **Self-Assessment Questionnaire (SAQ)** and, depending on the SAQ, quarterly external vulnerability scans by an Approved Scanning Vendor (ASV). Larger merchants and service providers may need an on-site assessment by a Qualified Security Assessor (QSA), with a Report on Compliance.
 
-The SAQ type depends on how you take payments. A few common examples:
+The SAQ type depends on how you take payments. Common examples:
 
 | How you take cards | Usual SAQ |
 |---|---|
@@ -41,24 +41,24 @@ The SAQ type depends on how you take payments. A few common examples:
 | Typing card numbers into a processor's virtual terminal in a web browser | SAQ C-VT |
 | Anything else, including storing card numbers | SAQ D |
 
-Your acquirer tells you which one to file. If they don't, ask. Choosing the wrong SAQ is a common way to end up out of compliance without knowing it.
+Your acquirer tells you which one to file. If they don't, ask. Choosing the wrong SAQ is a common way to be out of compliance without knowing it.
 
-The biggest lever a small business has is to **keep card data out of its own systems**. Use a hosted payment page for online sales, P2PE or tokenizing terminals in the store, and never store card numbers yourself. Each of those moves you to a shorter SAQ.
+The biggest lever a small business has is to **keep card data out of its own systems**. Use a hosted payment page online, P2PE or tokenizing terminals in the store, and never store card numbers yourself. Each moves you to a shorter SAQ.
 
-Outsourcing doesn't remove responsibility. You still need to confirm that each payment provider is PCI DSS compliant (they publish an Attestation of Compliance), keep a list of them, and know which requirements they handle and which ones you do.
+Outsourcing doesn't remove responsibility. Confirm that each payment provider is PCI DSS compliant (they publish an Attestation of Compliance), keep a list of them, and know which requirements they handle and which you do.
 
 ## The twelve requirements in plain words
 
-PCI DSS is organized under six goals and twelve requirements.
+PCI DSS has six goals and twelve requirements.
 
-1. **Network security controls.** Firewalls or similar controls between the CDE and everything else, including the guest Wi-Fi.
+1. **Network security controls.** Firewalls or similar controls between the CDE and everything else, including guest Wi-Fi.
 2. **Secure configuration.** Change vendor default passwords and settings on every device, and turn off what you don't use.
-3. **Protect stored account data.** Keep as little as possible, for as short a time as possible. Mask the PAN when it's displayed. Make it unreadable where it's stored.
+3. **Protect stored account data.** Keep as little as possible, for as short a time as possible. Mask the PAN when displayed. Make it unreadable where stored.
 4. **Encrypt card data sent over open networks**, and never send card numbers by email, text, or chat.
 5. **Protect against malware**, including phishing.
 6. **Develop and maintain secure systems.** Patch promptly. For online stores, control and monitor the scripts on payment pages to stop skimming code.
 7. **Restrict access** to card data to people whose job needs it.
-8. **Identify users and authenticate them.** Unique IDs, strong passwords, and multi-factor authentication for access into the CDE.
+8. **Identify and authenticate users.** Unique IDs, strong passwords, and multi-factor authentication for access into the CDE.
 9. **Restrict physical access.** Lock up paper with card data, and inspect card terminals for tampering and skimmers.
 10. **Log and monitor** access to systems and card data.
 11. **Test security regularly**: vulnerability scans, penetration tests where required, and checks for changes to payment pages.
@@ -66,16 +66,22 @@ PCI DSS is organized under six goals and twelve requirements.
 
 ## What staff need to know
 
-Requirement 12.6 sets out the training. The business must have a formal security awareness program and review it at least every 12 months. Staff take training when hired and at least once every 12 months, delivered in more than one way (for example, a session plus written reminders). Training must cover phishing and related attacks, and the acceptable use of end-user technology such as laptops, phones, and remote access. At least once every 12 months, each person acknowledges that they've read and understood the security policy and procedures. Staff who handle card terminals also need training to spot tampering and substitution of devices (requirement 9.5.1.3).
+Requirement 12.6 sets out the training:
 
-A training session for front-line staff should leave people able to act on these points.
+- The business has a formal security awareness program and reviews it at least every 12 months.
+- Staff are trained when hired and at least every 12 months, in more than one way (for example, a session plus written reminders).
+- Training covers phishing and related attacks, and acceptable use of end-user technology such as laptops, phones, and remote access.
+- At least every 12 months, each person acknowledges that they've read and understood the security policy and procedures.
+- Staff who handle card terminals also learn to spot tampering and device substitution (requirement 9.5.1.3).
+
+A session for front-line staff should leave people able to act on these points.
 
 1. **Never write down card numbers** or security codes. If a phone order can't go straight into the terminal or virtual terminal, ask your manager for the approved process.
 2. **Never accept or send card numbers by email, text, or chat.** If a customer sends one, don't reply with it, tell your manager, and delete it as your procedure says.
 3. **Never ask for the PIN**, and don't watch customers enter it.
 4. **Check the terminal.** Look for loose parts, extra layers over the keypad or card slot, broken seals, or a device that doesn't match the serial number on file. Report anything odd before using it.
 5. **Verify repair visits.** Don't let anyone service, swap, or take a terminal without confirming the visit with your manager or the provider. Criminals pose as technicians.
-6. **Use your own login.** Don't share passwords for the register, the virtual terminal, or the payment portal.
+6. **Use your own login.** Don't share passwords for the register, virtual terminal, or payment portal.
 7. **Spot phishing.** Fake "processor" emails asking you to log in or update payment settings are common. Report them.
 8. **Keep receipts and paperwork secure**, and shred anything with card data.
 9. **Report problems right away**: a suspected skimmer, a lost device, a customer reporting fraud after shopping with you, or anything that looks wrong.
@@ -96,7 +102,7 @@ A training session for front-line staff should leave people able to act on these
 
 The PCI Council doesn't fine anyone. Enforcement runs through the card brands and acquirers under their contracts. Brands can assess fees and penalties against an acquirer, and acquirer agreements commonly let the acquirer pass them on to the merchant. The amounts aren't published.
 
-After a breach, the costs usually come from several places: a forensic investigation by a PCI Forensic Investigator, card brand assessments for fraud and card reissuance, higher processing fees, a requirement to move to a stricter validation level, and in serious cases losing the ability to accept cards. State breach notification laws can apply too, and the FTC has brought cases against companies whose weak security exposed card data.
+After a breach, costs usually come from several places: a forensic investigation by a PCI Forensic Investigator, card brand assessments for fraud and card reissuance, higher processing fees, a requirement to move to a stricter validation level, and in serious cases losing the ability to accept cards. State breach notification laws can apply too, and the FTC has brought cases against companies whose weak security exposed card data.
 
 ## Common mistakes
 
