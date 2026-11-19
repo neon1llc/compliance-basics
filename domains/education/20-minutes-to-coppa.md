@@ -3,7 +3,7 @@ title: "20 minutes to COPPA"
 description: "What the Children's Online Privacy Protection Rule asks of websites, apps, and edtech tools used by children under 13, including the 2025 amendments, and what the team needs to know."
 domain: Education
 rules: "Children's Online Privacy Protection Act (15 U.S.C. §§ 6501 to 6506) and the COPPA Rule (16 CFR Part 312)"
-reviewed: 2026-11-12
+reviewed: 2026-11-19
 ---
 
 **Read this if** you build or run a website, app, game, connected toy, or learning tool that children under 13 use, or you work at a school choosing such tools. It also applies to general audience services that know they're collecting information from a child under 13, and to ad networks and plug-ins that know they're collecting from users of a child-directed service.
@@ -79,6 +79,8 @@ The FTC and state attorneys general enforce COPPA. Civil penalties can reach $53
 - Keeping children's data indefinitely "for analytics."
 - Relying on school consent while also using the data for product marketing.
 - No written security program, which became mandatory with the 2025 amendments.
+
+This is training, not legal advice. Ask an attorney whether your service is child-directed and whether your consent method meets the rule.
 
 ## Next
 

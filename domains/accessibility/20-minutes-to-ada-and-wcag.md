@@ -3,7 +3,7 @@ title: "20 minutes to the ADA and WCAG"
 description: "What disability rights law asks of business and government websites and apps, what WCAG is, the 2027 and 2028 deadlines, and what content and web teams need to know."
 domain: Accessibility
 rules: "Americans with Disabilities Act Titles II and III, Section 504 of the Rehabilitation Act, and the W3C Web Content Accessibility Guidelines (WCAG) 2.1 and 2.2"
-reviewed: 2026-11-12
+reviewed: 2026-11-19
 ---
 
 **Read this if** your business or organization has a website, an online store, a booking or patient portal, a mobile app, or posts documents and videos online. It matters most for businesses open to the public, health care providers, schools, and anyone who works for a state or local government.
@@ -81,6 +81,8 @@ No law requires specific accessibility training for private businesses, but acce
 - Carousels, pop-ups, and chat widgets that trap keyboard users.
 - Third-party booking or payment widgets nobody tested.
 - No contact method for people who hit a barrier.
+
+This is training, not legal advice or an accessibility audit. An accessibility specialist can test your site against WCAG. Ask an attorney before you answer a demand letter or lawsuit.
 
 ## Next
 

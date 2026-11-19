@@ -3,7 +3,7 @@ title: "20 minutes to the NIST AI Risk Management Framework"
 description: "How a small business can use AI tools responsibly at work, using the NIST AI Risk Management Framework, the EU AI Act's AI literacy duty, and the U.S. rules that already apply, and what staff need to know."
 domain: AI use
 rules: "NIST AI Risk Management Framework 1.0 and Generative AI Profile (NIST AI 600-1), EU AI Act Article 4, and existing U.S. consumer protection, privacy, and anti-discrimination law"
-reviewed: 2026-11-12
+reviewed: 2026-11-19
 ---
 
 **Read this if** people at your business use AI chat assistants, writing or coding tools, meeting transcribers, or AI features built into software you already pay for, or if you build products that use AI. That's most businesses now.
@@ -77,6 +77,8 @@ A one- or two-page policy covers most small businesses. Include:
 - AI-written content published with fabricated citations or wrong figures.
 - Marketing that overstates what an AI feature does.
 - Using AI screening in hiring without checking local law.
+
+This is training, not legal advice. Ask an attorney before you use AI for hiring, lending, or other decisions about people, or if you sell AI products in the EU.
 
 ## Next
 
