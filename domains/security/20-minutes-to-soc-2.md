@@ -26,7 +26,7 @@ There are two types of report.
 3. **Assess risk.** List what could go wrong and which controls address it.
 4. **Put controls in place and write policies.** Most companies end up with dozens of controls covering governance, people, access, change management, operations, incidents, vendors, and continuity.
 5. **Collect evidence as you go.** Auditors test samples, so controls need to leave records: tickets, logs, review sign-offs, and training records.
-6. **Choose an audit firm** and run a readiness review. An auditor's readiness assessment tells you whether your design is likely to hold up. A compliance platform, such as Vanta, Drata, or Secureframe, can collect evidence once your controls exist, but it doesn't choose your scope or do the work.
+6. **Choose an audit firm** and run a readiness review. An auditor's readiness assessment tells you whether your design is likely to hold up. A compliance platform (Vanta, Drata, and Secureframe are examples, not endorsements) can collect evidence once your controls exist, but it doesn't choose your scope or do the work.
 7. **Get through the observation period** for a Type 2, then the audit.
 
 SOC 2 Readiness walks through each step in eight modules, with a 90-day readiness plan.
