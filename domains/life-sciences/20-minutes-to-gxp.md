@@ -3,7 +3,7 @@ title: "20 minutes to GxP"
 description: "What the good practice rules (GMP, GLP, GCP, GDP, and Part 11) ask of drug, device, lab, and clinical research teams and the IT people who support them."
 domain: Life sciences
 rules: "FDA 21 CFR Parts 11, 58, 210, 211, 312, and 820, ICH E6(R3), and EU GMP and GDP guidelines"
-reviewed: 2026-11-12
+reviewed: 2026-11-19
 ---
 
 **Read this if** you work at or for a company that makes, tests, studies, or ships drugs, biologics, medical devices, or dietary supplements. That includes contract manufacturers and labs, clinical research sites and CROs, and the IT providers, software vendors, and consultants who run or validate their systems.
@@ -74,7 +74,7 @@ Electronic signatures need at least two distinct parts, such as a user ID and pa
 
 FDA's 2003 guidance on Part 11 scope says it enforces the rule with a risk-based approach, focusing on validation, audit trails, record retention, and copies. Its 2025 guidance on computer software assurance encourages testing effort proportional to risk, instead of exhaustive scripted testing for every feature.
 
-In the European Union, EudraLex Volume 4 Annex 11 covers computerized systems in GMP. It closely matches Part 11 and adds expectations for supplier assessment, periodic review, and data backup.
+In the European Union, EudraLex Volume 4 Annex 11 covers computerized systems in GMP. It closely matches Part 11 and adds expectations for supplier assessment, periodic review, and data backup. The European Commission consulted in 2025 on a revised Annex 11 and a new Annex 22 on AI in manufacturing, so check the current text.
 
 For IT teams, a server patch, a database migration, a password reset, or a new cloud service that touches a GxP system is a regulated change. Admin accounts that can edit records or switch off audit trails are among the first things an inspector checks.
 
@@ -141,6 +141,8 @@ Lack of adequate training is a regular citation in warning letters. So are incom
 - Cloud or SaaS systems adopted for GxP work without supplier assessment or validation.
 - Backdating, or completing records at the end of the shift.
 
+This is training, not regulatory advice. Validation, inspection readiness, and submissions need qualified quality and regulatory professionals, and counsel for enforcement actions.
+
 ## Next
 
 The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough into a day-by-day list of tasks.
@@ -177,6 +179,7 @@ The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough in
 - FDA, [Computer Software Assurance for Production and Quality System Software](https://www.federalregister.gov/documents/2025/09/24/2025-18468/computer-software-assurance-for-production-and-quality-system-software-guidance-for-industry-and), guidance, 90 FR 45945 (September 24, 2025).
 - FDA, [E6(R3) Good Clinical Practice](https://www.federalregister.gov/documents/2025/09/09/2025-17311/e6r3-good-clinical-practice-international-council-for-harmonisation-guidance-for-industry), guidance, 90 FR 43460 (September 9, 2025), and ICH, [Efficacy guidelines](https://www.ich.org/page/efficacy-guidelines) (E6).
 - European Commission, [EudraLex Volume 4](https://health.ec.europa.eu/medicinal-products/eudralex/eudralex-volume-4_en), EU GMP guidelines including Annex 11 (computerised systems).
+- European Commission, [Stakeholder consultation on EudraLex Volume 4 Chapter 4, Annex 11, and new Annex 22](https://health.ec.europa.eu/consultations/stakeholders-consultation-eudralex-volume-4-good-manufacturing-practice-guidelines-chapter-4-annex_en) (7 July to 7 October 2025).
 - European Commission, [Guidelines of 5 November 2013 on Good Distribution Practice of medicinal products for human use](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52013XC1123%2801%29), 2013/C 343/01.
 - FDA, [Drug Supply Chain Security Act](https://www.fda.gov/drugs/drug-supply-chain-integrity/drug-supply-chain-security-act-dscsa).
 - FDA, [Warning letters](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/compliance-actions-and-activities/warning-letters), searchable database.

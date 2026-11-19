@@ -3,7 +3,7 @@ title: "20 minutes to CAN-SPAM"
 description: "What the CAN-SPAM Act asks of any business that sends marketing email, how it differs from what Gmail and Yahoo now require of bulk senders, and what the team needs to know."
 domain: Marketing
 rules: "CAN-SPAM Act (15 U.S.C. §§ 7701 to 7713) and the FTC's CAN-SPAM Rule (16 CFR Part 316)"
-reviewed: 2026-11-12
+reviewed: 2026-11-19
 ---
 
 **Read this if** your business sends newsletters, promotions, announcements, or sales emails, including one-to-one prospecting emails to other businesses. It also applies if you hire an agency or platform to send them for you.
@@ -79,6 +79,8 @@ The FTC enforces CAN-SPAM, along with state attorneys general and internet acces
 - "Re:" or "Your order" subject lines on promotions.
 - Unsubscribe links that require logging in.
 - Sales teams sending prospecting sequences from tools that don't respect the suppression list.
+
+This is training, not legal advice. Ask an attorney about email to recipients outside the United States, or if you get an inquiry from the FTC or a state.
 
 ## Next
 

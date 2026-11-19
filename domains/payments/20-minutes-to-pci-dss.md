@@ -3,7 +3,7 @@ title: "20 minutes to PCI DSS"
 description: "What the card industry's security standard asks of any business that takes card payments, and what staff need to know."
 domain: Payments
 rules: "PCI Data Security Standard (PCI DSS) v4.0.1"
-reviewed: 2026-11-12
+reviewed: 2026-11-19
 ---
 
 **Read this if** your business takes credit or debit cards in any way: a terminal at the counter, a phone order, an online checkout, or an invoice with a pay link. It also applies to service providers that handle card data for others or can affect its security, such as payment processors, hosting providers, and IT firms that manage a merchant's network.
@@ -34,7 +34,7 @@ The SAQ type depends on how you take payments. Common examples:
 
 | How you take cards | Usual SAQ |
 |---|---|
-| Online only, and a third-party processor hosts the whole payment page (a redirect or an embedded iframe from the processor) | SAQ A |
+| Online only, and a third-party processor hosts the whole payment page (a redirect or an embedded iframe from the processor) | SAQ A, which since 2025 also asks you to confirm your site isn't open to attacks from malicious scripts |
 | Online, and your own site controls how the payment page is delivered | SAQ A-EP |
 | Standalone terminals that dial out or connect over the internet, not connected to other systems | SAQ B or SAQ B-IP |
 | A validated point-to-point encryption (P2PE) terminal | SAQ P2PE |
@@ -114,6 +114,8 @@ After a breach, costs usually come from several places: a forensic investigation
 - Filing SAQ A for a website that actually hosts its own payment form.
 - Assuming the processor "handles PCI" and filing nothing.
 - No check for skimmers on terminals, gas pumps, or self-checkout.
+
+This is training, not legal advice or a PCI assessment. Your acquirer decides which SAQ you file. Hire a Qualified Security Assessor for an on-site assessment, and a PCI Forensic Investigator and an attorney after a suspected compromise.
 
 ## Next
 

@@ -3,7 +3,7 @@ title: "20 minutes to NYC Local Law 144"
 description: "What New York City's law on automated employment decision tools asks of employers and recruiters, including bias audits and candidate notices, and what hiring teams need to know."
 domain: AI use
 rules: "NYC Local Law 144 of 2021 (NYC Administrative Code §§ 20-870 to 20-874) and DCWP rules (6 RCNY §§ 5-300 to 5-304)"
-reviewed: 2026-11-12
+reviewed: 2026-11-19
 ---
 
 **Read this if** you hire or promote people for jobs in New York City, or you're a recruiter or staffing agency placing candidates there, and you use software that scores, ranks, screens, or recommends candidates. Resume screeners, video interview scoring, and assessment tools built into applicant tracking systems can all count.
@@ -43,6 +43,8 @@ Civil penalties are up to $500 for a first violation and each additional violati
 - Copies of candidate notices and where they appeared.
 - Vendor contracts that require the vendor to support audits and share data.
 - Training records for recruiters and hiring managers. See the [training log](../../templates/training-log.csv).
+
+This is training, not legal advice. The bias audit has to come from an independent auditor, and an attorney can tell you whether a tool counts as an AEDT.
 
 ## Next
 

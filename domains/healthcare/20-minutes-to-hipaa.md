@@ -3,7 +3,7 @@ title: "20 minutes to HIPAA"
 description: "What HIPAA asks of medical practices, health plans, and their vendors, and what the workforce has to know."
 domain: Healthcare
 rules: "HIPAA Privacy, Security, and Breach Notification Rules (45 CFR Parts 160 and 164)"
-reviewed: 2026-11-12
+reviewed: 2026-11-19
 ---
 
 **Read this if** you work at a medical, dental, behavioral health, or therapy practice, a pharmacy, a lab, a health plan, or a billing company, or you sell a service to one of them that touches patient information. That includes IT support firms, cloud hosts, answering services, shredding companies, and software vendors.
@@ -127,6 +127,8 @@ State attorneys general can also bring HIPAA cases for their residents.
 - Training once at hire and never again, or training with no record.
 - Ignoring access requests, or charging per-page fees for electronic copies.
 - Website tracking tools, such as ad pixels on appointment pages, that send visitor information to advertising companies. OCR has warned about this, and a federal court narrowed that guidance in 2024, but class action lawsuits continue.
+
+This is training, not legal advice. Ask a health care attorney whether you're a covered entity, whether an incident is a reportable breach, and how to answer an inquiry from OCR.
 
 ## Next
 

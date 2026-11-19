@@ -3,7 +3,7 @@ title: "20 minutes to the TCPA"
 description: "What the Telephone Consumer Protection Act asks of any business that texts or calls customers, including consent, quiet hours, Do Not Call, and opt-outs, and what staff need to know."
 domain: Marketing
 rules: "Telephone Consumer Protection Act (47 U.S.C. § 227), FCC rules at 47 CFR § 64.1200, and the FTC's Telemarketing Sales Rule"
-reviewed: 2026-11-12
+reviewed: 2026-11-19
 ---
 
 **Read this if** your business sends text messages to customers (appointment reminders, order updates, promotions, or two-factor codes), makes sales calls, or uses software that dials or texts automatically. It's one of the most litigated consumer laws in the country, so it matters even for small businesses.
@@ -41,7 +41,9 @@ The FCC adopted a rule in 2023 that would have required consent to be given to o
 
 Since April 11, 2025, FCC rules say a consumer can revoke consent **in any reasonable way**, including replying with words like stop, quit, end, revoke, opt out, cancel, or unsubscribe, or other words that clearly mean stop. Businesses must honor the request **within a reasonable time, and no later than 10 business days**. You may send one confirmation text within five minutes, without marketing content, which can ask which message types to stop if the consumer gets more than one kind.
 
-The FCC delayed, then revised in 2026, the rules on whether one opt-out stops every type of message from a business. Expect that a "stop" to marketing ends all marketing, and check the current rules before relying on narrower treatment.
+The FCC delayed, then narrowed, the rule on whether one opt-out stops every type of message. Under its September 30, 2026 order (FCC 26-67), a reply to an informational message, such as an appointment reminder, can be treated as covering only that category of informational messages. A reply to a marketing message still ends all marketing from you. The order takes effect 30 days after Federal Register publication, so confirm the date on the FCC's site.
+
+The same order lets a business name its own exclusive opt-out method: a key press on a call, a reply text with one of the standard words, or a designated website or phone number. It must disclose the method in each call or text. A business that doesn't name one must honor any reasonable request. Treat every other way of asking to stop as valid unless you've done this.
 
 ## Carrier rules for business texting
 
@@ -85,6 +87,8 @@ Consumers can sue for $500 per violation, up to $1,500 if willful or knowing, an
 - Prechecked consent boxes, or consent bundled into terms of service.
 - No record of what the opt-in form said when the person signed up.
 
+This is training, not legal advice. Ask an attorney to review your consent language and campaigns before a large send, and right away if you get a demand letter.
+
 ## Next
 
 The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough into a day-by-day list of tasks.
@@ -112,7 +116,7 @@ The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough in
 
 - [47 U.S.C. § 227](https://www.law.cornell.edu/uscode/text/47/227), the TCPA, including private actions in § 227(b)(3) and (c)(5).
 - [47 CFR § 64.1200](https://www.ecfr.gov/current/title-47/section-64.1200), FCC TCPA rules: consent, calling hours, Do Not Call, and revocation.
-- FCC, [Telephone Consumer Protection Act rules](https://www.fcc.gov/general/telemarketing-and-robocalls), and [Order delaying part of the revocation rules](https://docs.fcc.gov/public/attachments/DA-25-312A1.pdf), DA 25-312 (April 2025).
+- FCC, [Telephone Consumer Protection Act rules](https://www.fcc.gov/general/telemarketing-and-robocalls), [Order delaying part of the revocation rules](https://docs.fcc.gov/public/attachments/DA-25-312A1.pdf), DA 25-312 (April 2025), [extension to January 31, 2027](https://docs.fcc.gov/public/attachments/DA-26-12A1.pdf), DA 26-12 (January 2026), and [Report and Order](https://docs.fcc.gov/public/attachments/FCC-26-67A1.pdf), FCC 26-67 (adopted September 30, 2026), narrowing the rule.
 - *Facebook, Inc. v. Duguid*, [592 U.S. 395 (2021)](https://supreme.justia.com/cases/federal/us/592/19-511/).
 - *Campbell-Ewald Co. v. Gomez*, [577 U.S. 153 (2016)](https://supreme.justia.com/cases/federal/us/577/14-857/), treating text messages as calls under the TCPA.
 - *Insurance Marketing Coalition Ltd. v. FCC*, No. 24-10277 (11th Cir. January 24, 2025), vacating the one-to-one consent rule.

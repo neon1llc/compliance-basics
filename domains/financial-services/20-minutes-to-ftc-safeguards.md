@@ -3,7 +3,7 @@ title: "20 minutes to the FTC Safeguards Rule"
 description: "What the FTC Safeguards Rule asks of tax preparers, mortgage brokers, auto dealers, lenders, and other non-bank financial businesses, and what staff need to know."
 domain: Financial services
 rules: "Gramm-Leach-Bliley Act Safeguards Rule (16 CFR Part 314)"
-reviewed: 2026-11-12
+reviewed: 2026-11-19
 ---
 
 **Read this if** your business is a tax preparer or accountant, mortgage broker or lender, auto dealer that finances or leases, payday or installment lender, check casher, money transmitter, real estate appraiser or settlement company, debt collector, credit counselor, or non-bank finance company of any kind. Colleges that take part in federal student aid programs are covered too. The rule also matters to the IT providers, software vendors, and bookkeepers who work for these businesses, because the rule requires their clients to oversee them.
@@ -99,6 +99,8 @@ The FTC enforces the rule through investigations and lawsuits. Most cases end wi
 - An IT provider with full access and no contract terms about security.
 - Counting only current clients when deciding on the under-5,000 exemption.
 - No plan for the 30-day FTC deadline.
+
+This is training, not legal advice. Ask an attorney whether you're a financial institution under the rule, whether an event triggers an FTC report, and how to answer an FTC inquiry.
 
 ## Next
 

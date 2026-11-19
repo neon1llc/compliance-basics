@@ -3,7 +3,7 @@ title: "20 minutes to SOC 2"
 description: "What a SOC 2 report is, who asks for one, what it takes to get one, and what staff need to know, with a pointer to the full SOC 2 Readiness course."
 domain: Security
 rules: "AICPA SOC 2 examinations and the 2017 Trust Services Criteria"
-reviewed: 2026-11-12
+reviewed: 2026-11-19
 ---
 
 **Read this if** a customer has asked for your SOC 2 report, a sales deal is stuck on a security questionnaire, or you sell software or services that hold other companies' data. For the full hands-on course, with a controls map, evidence checklists, and templates, see [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness).
@@ -24,9 +24,9 @@ There are two types of report.
 1. **Decide why and for whom.** Confirm a customer actually needs SOC 2 and not something lighter, such as a completed questionnaire or a CSF-based summary.
 2. **Draw the boundary.** Pick the system the report covers, the criteria, and how it treats vendors such as your cloud provider.
 3. **Assess risk.** List what could go wrong and which controls address it.
-4. **Put controls in place and write policies.** Most companies need 40 to 80 controls covering governance, people, access, change management, operations, incidents, vendors, and continuity.
+4. **Put controls in place and write policies.** Most companies end up with dozens of controls covering governance, people, access, change management, operations, incidents, vendors, and continuity.
 5. **Collect evidence as you go.** Auditors test samples, so controls need to leave records: tickets, logs, review sign-offs, and training records.
-6. **Choose an audit firm** and run a readiness review.
+6. **Choose an audit firm** and run a readiness review. An auditor's readiness assessment tells you whether your design is likely to hold up. A compliance platform, such as Vanta, Drata, or Secureframe, can collect evidence once your controls exist, but it doesn't choose your scope or do the work.
 7. **Get through the observation period** for a Type 2, then the audit.
 
 SOC 2 Readiness walks through each step in eight modules, with a 90-day readiness plan.
@@ -40,7 +40,7 @@ The Trust Services Criteria expect the company to communicate security responsib
 - role-specific training for engineers, support staff, and admins,
 - and records of all of it, for everyone in scope, including contractors.
 
-Missing training records for even a few people sampled is one of the most common exceptions in a first Type 2 report. The [acknowledgment form](../../templates/acknowledgment-form.md) and [training log](../../templates/training-log.csv) in this repository work for SOC 2 evidence.
+Missing training records for people the auditor samples produce exceptions in the report. The [acknowledgment form](../../templates/acknowledgment-form.md) and [training log](../../templates/training-log.csv) in this repository work for SOC 2 evidence.
 
 ## What staff need to know
 
@@ -59,6 +59,8 @@ Staff in a SOC 2 company follow the same habits as any secure workplace (see [20
 - Writing policies that describe what the company wishes it did.
 - Quarterly access reviews that slip, leaving gaps in the observation period.
 - Forgetting contractors in training and background checks.
+
+This is training, not an audit or assurance. Only a licensed CPA firm can issue a SOC 2 report, and nothing here promises an auditor will accept your evidence.
 
 ## Next
 

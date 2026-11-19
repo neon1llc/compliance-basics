@@ -3,7 +3,7 @@ title: "20 minutes to FERPA"
 description: "What FERPA asks of schools, colleges, and the vendors who handle student records, what staff need to know, and the New York rules that add annual training."
 domain: Education
 rules: "Family Educational Rights and Privacy Act (20 U.S.C. § 1232g, 34 CFR Part 99) and New York Education Law § 2-d"
-reviewed: 2026-11-12
+reviewed: 2026-11-19
 ---
 
 **Read this if** you work at a public school or district, a private school or college that takes federal student aid, a tutoring or after-school program working with a school, or an edtech, IT, or data company that a school shares student records with.
@@ -116,6 +116,8 @@ The Student Privacy Policy Office investigates complaints. Its aim is voluntary 
 - Emailing spreadsheets of student data to the wrong list.
 - Ignoring the 45-day deadline for record requests.
 - Vendor contracts with no deletion terms.
+
+This is training, not legal advice. For a disclosure you're unsure about, ask the school's counsel, or the Department of Education's Student Privacy Policy Office, before you release the record.
 
 ## Next
 
