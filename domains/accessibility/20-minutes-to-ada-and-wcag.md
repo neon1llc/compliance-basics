@@ -12,94 +12,71 @@ reviewed: 2026-11-19
 
 The Americans with Disabilities Act (ADA) bans discrimination against people with disabilities. Two parts reach websites and apps.
 
-**Title III** covers businesses open to the public, called public accommodations: stores, restaurants, hotels, doctors' and lawyers' offices, banks, schools, gyms, and many more. The Department of Justice's position is that Title III applies to their websites and apps, with flexibility in how businesses make them accessible. DOJ's Title III regulations name no technical standard, so businesses, courts, and settlements use WCAG. Federal courts have split on how far Title III reaches websites of businesses with no physical location. Thousands of website accessibility lawsuits are filed each year, many in New York.
+**Title III** covers businesses open to the public, called public accommodations: stores, restaurants, hotels, doctors' and lawyers' offices, banks, schools, gyms, and many more. The Department of Justice's position is that Title III applies to their websites and apps, with flexibility in how businesses make them accessible. DOJ's Title III regulations name no technical standard, so businesses, courts, and settlements use WCAG. Federal courts have split on how far Title III reaches the websites of businesses with no physical location. Thousands of website accessibility lawsuits are filed each year.
 
 **Title II** covers state and local governments, including public schools, colleges, libraries, courts, transit, and public hospitals. A 2024 DOJ rule requires their web content and mobile apps to meet **WCAG 2.1 Level AA**. In April 2026, DOJ extended the deadlines to **April 26, 2027** for governments serving 50,000 or more people, and **April 26, 2028** for smaller ones and special districts. Vendors that build or host sites and apps for these governments should expect the requirement in their contracts.
 
 **Section 504** of the Rehabilitation Act covers organizations that receive federal financial assistance. A 2024 HHS rule requires recipients of HHS funding, which includes many hospitals, clinics, and health and human services agencies, to meet WCAG 2.1 AA. After a 2026 extension, the deadline is **May 11, 2027** for recipients with 15 or more employees, and **May 10, 2028** for smaller ones.
 
-Selling into Europe? The European Accessibility Act has applied since June 28, 2025 to many consumer products and services sold in the EU, including e-commerce and banking, with an exemption for microenterprises providing services.
+Selling into Europe? The European Accessibility Act has applied since June 28, 2025 to many consumer products and services sold in the EU, with an exemption for microenterprises providing services.
 
 ## What WCAG is
 
-The Web Content Accessibility Guidelines (WCAG) are published by the World Wide Web Consortium (W3C). They're organized around four principles. Content must be:
+The Web Content Accessibility Guidelines (WCAG) are published by the World Wide Web Consortium (W3C). Content must be:
 
-- **Perceivable**: people can see or hear it in some form. Images have text alternatives, videos have captions, and text has enough contrast.
-- **Operable**: people can use it with a keyboard, a switch, or voice, not only a mouse, and have enough time.
+- **Perceivable**: images have text alternatives, videos have captions, and text has enough contrast.
+- **Operable**: it works with a keyboard, a switch, or voice, not only a mouse.
 - **Understandable**: language is clear, forms explain errors, and pages behave predictably.
-- **Robust**: it works with assistive technology such as screen readers, because the code is built with proper structure.
+- **Robust**: it works with assistive technology such as screen readers.
 
-Each guideline has testable success criteria at three levels: A, AA, and AAA. **Level AA** is the usual legal and contractual target. WCAG 2.1 (2018) is the version named in the DOJ and HHS rules. WCAG 2.2 (2023) adds criteria such as larger touch targets, visible focus not hidden by sticky headers, and accessible sign-in without memory puzzles. Meeting 2.2 AA also meets 2.1 AA, so building to 2.2 is a sensible choice for new work.
+Success criteria come at three levels: A, AA, and AAA. **Level AA** is the usual legal and contractual target. WCAG 2.1 (2018) is the version named in the DOJ and HHS rules. WCAG 2.2 (2023) adds criteria such as larger touch targets and sign-in without memory puzzles. Meeting 2.2 AA also meets 2.1 AA, so build new work to 2.2.
 
 ## The most common problems
 
-The WebAIM Million, a yearly automated scan of the top million home pages, keeps finding the same errors at the top of the list:
-
-- low-contrast text,
-- images with missing alternative text,
-- form fields with no labels,
-- empty links and buttons, such as icon buttons with no accessible name,
-- missing document language,
-- and empty or skipped headings.
-
-Automated tools catch only part of WCAG. Keyboard and screen reader checks catch much more, and testing with disabled users catches the most.
+The yearly WebAIM Million scan of top home pages keeps finding the same errors: low-contrast text, images with no alternative text, unlabeled form fields, empty links and buttons, and skipped headings. Automated tools catch only part of WCAG. Keyboard and screen reader checks catch more, and testing with disabled users catches the most.
 
 ## Overlays aren't a fix
 
-Overlay widgets that promise one-line compliance don't fix the underlying code, and many disabled users find them get in the way. In 2025 the FTC ordered one overlay maker, accessiBe, to pay $1 million for deceptively claiming its product could make any website compliant with WCAG.
+Overlay widgets that promise one-line compliance don't fix the underlying code. In 2025 the FTC ordered one overlay maker, accessiBe, to pay $1 million for deceptively claiming its product could make any website compliant with WCAG.
 
 ## What content and web teams need to know
 
-No law requires specific accessibility training for private businesses, but accessibility depends on the people who write, design, and build content. They need to know these points.
+No law requires specific accessibility training for private businesses, but accessibility depends on the people who write, design, and build content.
 
-1. **Write alt text for meaningful images** that says what the image communicates. Mark decorative images so screen readers skip them.
-2. **Use real headings in order** (one H1, then H2, H3), not bold text that looks like a heading.
-3. **Make link text say where it goes.** "Download the 2026 fee schedule (PDF)" instead of "click here."
-4. **Check color contrast**: at least 4.5 to 1 for normal text and 3 to 1 for large text.
-5. **Don't use color alone** to show meaning, such as red for errors without text.
-6. **Caption videos and provide transcripts for audio.**
-7. **Label every form field**, and write error messages that say how to fix the problem.
-8. **Make everything work with a keyboard**, with a visible focus indicator.
-9. **Prefer accessible web pages over PDFs.** When a PDF is needed, tag it and check it.
-10. **Test before publishing**: run an automated checker, tab through the page, and try it with a screen reader for key pages.
+1. **Write alt text** that says what a meaningful image communicates, and mark decorative images so screen readers skip them.
+2. **Use real headings in order**, not bold text that looks like a heading.
+3. **Make link text say where it goes.** "Download the 2026 fee schedule (PDF)," not "click here."
+4. **Check color contrast**: at least 4.5 to 1 for normal text and 3 to 1 for large text. Don't use color alone to show meaning.
+5. **Caption videos and provide transcripts for audio.**
+6. **Label every form field**, and write error messages that say how to fix the problem.
+7. **Make everything work with a keyboard**, with a visible focus indicator.
+8. **Prefer web pages over PDFs.** When a PDF is needed, tag it and check it.
+9. **Test before publishing**: run an automated checker, tab through the page, and try a screen reader on key pages.
 
 ## What the business needs on paper
 
 - An accessibility statement on the site, with a way to report problems and get help.
-- A target standard (WCAG 2.1 or 2.2 Level AA) written into policies and vendor contracts.
+- A target standard (WCAG 2.1 or 2.2 Level AA) in policies and vendor contracts.
 - Audit results and a remediation plan with dates.
-- Accessibility checks in the publishing and release process.
-- For government vendors and HHS recipients: evidence of conformance before the deadline, and a process for the content rule exceptions (archived content, preexisting documents, third-party content).
+- For government vendors and HHS recipients: evidence of conformance before the deadline.
 - Training records for content editors and developers. See the [training log](../../templates/training-log.csv).
 
-## Common mistakes
-
-- Relying on an overlay widget.
-- Redesigning the site without accessibility requirements, then fixing it afterward at higher cost.
-- Scanned PDFs of forms and menus.
-- Videos without captions.
-- Carousels, pop-ups, and chat widgets that trap keyboard users.
-- Third-party booking or payment widgets nobody tested.
-- No contact method for people who hit a barrier.
-
-An accessibility specialist can test your site against WCAG. Ask an attorney before you answer a demand letter or lawsuit.
+An accessibility specialist can test your site against WCAG. Ask an attorney before you answer a demand letter or lawsuit. Untested booking and payment widgets, scanned PDFs, uncaptioned video, and pop-ups that trap keyboard users are the usual trouble spots.
 
 ## Check yourself
 
 1. Does the ADA name a technical standard for private business websites?
-2. What standard and level does the DOJ Title II rule require?
-3. When must a city of 80,000 people meet the Title II web rule?
-4. Will an overlay widget make a site WCAG compliant?
-5. What contrast ratio does WCAG AA require for normal-size text?
+2. When must a city of 80,000 people meet the Title II web rule?
+3. Will an overlay widget make a site WCAG compliant?
+4. What contrast ratio does WCAG AA require for normal-size text?
 
 <details>
 <summary>Answers</summary>
 
 1. No. DOJ's Title III regulations don't name one, but WCAG Level AA is the standard courts, settlements, and DOJ guidance point to.
-2. WCAG 2.1 Level AA.
-3. April 26, 2027, after DOJ's 2026 extension.
-4. No. Accessibility depends on the underlying content and code, and the FTC has acted against an overlay maker for claiming otherwise.
-5. At least 4.5 to 1.
+2. April 26, 2027, after DOJ's 2026 extension.
+3. No. Accessibility depends on the underlying content and code, and the FTC has acted against an overlay maker for claiming otherwise.
+4. At least 4.5 to 1.
 
 </details>
 

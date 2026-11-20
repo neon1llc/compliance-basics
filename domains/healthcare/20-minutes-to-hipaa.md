@@ -12,19 +12,19 @@ reviewed: 2026-11-19
 
 **Covered entities** are health plans, health care clearinghouses, and health care providers who send health information electronically in standard transactions, such as billing an insurer or checking eligibility. A therapist who takes only cash and never bills insurance electronically may not be covered. Almost every practice that takes insurance is.
 
-**Business associates** do work for a covered entity and create, receive, keep, or send protected health information while doing it. Examples are a managed IT provider with access to the practice's server, a cloud backup service, a transcription service, and a consultant who reviews charts. Their subcontractors who touch the same information are business associates too.
+**Business associates** do work for a covered entity and create, receive, keep, or send protected health information while doing it: a managed IT provider with access to the practice's server, a cloud backup service, a transcription service, a consultant who reviews charts. Their subcontractors who touch the same information are business associates too.
 
 A business associate needs a signed business associate agreement (BAA) with each covered entity it serves and each subcontractor it passes the information to. HHS publishes sample language.
 
-CMS, part of HHS, has a [covered entity decision tool](https://www.cms.gov/priorities/key-initiatives/burden-reduction/administrative-simplification/hipaa/covered-entities). If the answer is unclear, ask a health care attorney before you assume you're out.
+If it's unclear, use the CMS [covered entity decision tool](https://www.cms.gov/priorities/key-initiatives/burden-reduction/administrative-simplification/hipaa/covered-entities) or ask a health care attorney before you assume you're out.
 
 ## What counts as protected health information
 
 Protected health information (PHI) is health information that identifies a person, or could reasonably be used to, and that a covered entity or business associate holds or sends in any form: paper, electronic, or spoken.
 
-"Health information" is broad. It covers a diagnosis, test result, or prescription, and also the fact that someone is a patient, an appointment time, a billing record, and a photo taken in an exam room. Identifiers include names, addresses, dates tied to the person (birth, admission, discharge), phone numbers, email addresses, account and record numbers, device serial numbers, IP addresses, and full face photos.
+"Health information" covers a diagnosis, test result, or prescription, and also the fact that someone is a patient, an appointment time, a billing record, and a photo taken in an exam room. Names, addresses, dates, phone numbers, email addresses, record numbers, and photos all identify a person.
 
-Two things are not PHI under HIPAA: employment records a covered entity keeps as an employer, such as an employee's sick note in an HR file, and education records covered by FERPA. Properly de-identified information is no longer PHI.
+Not PHI: employment records a covered entity keeps as an employer, education records covered by FERPA, and properly de-identified information.
 
 ## The three rules in plain words
 
@@ -32,12 +32,11 @@ Two things are not PHI under HIPAA: employment records a covered entity keeps as
 
 The Privacy Rule says when PHI may be used and shared, and gives patients rights over their own information.
 
-- **Treatment, payment, and health care operations.** A practice can use and share PHI for these without the patient's written authorization. Sending records to a specialist, billing an insurer, and running quality reviews all fit.
-- **Minimum necessary.** For most uses other than treatment, people should see and share only the PHI the task needs. The billing clerk doesn't need the full chart. The front desk doesn't need lab results.
+- **Treatment, payment, and health care operations.** A practice can use and share PHI for these without written authorization, such as sending records to a specialist or billing an insurer.
+- **Minimum necessary.** For most other uses, people see and share only the PHI the task needs. The billing clerk doesn't need the full chart.
 - **Authorization.** Marketing, most sales of PHI, and sharing psychotherapy notes need the patient's written authorization.
-- **Notice of Privacy Practices.** Covered providers give patients a notice explaining how their information is used and what their rights are, and post it in the office and on the website.
-- **Right of access.** Patients can see and get a copy of their records, including electronic copies in the form they ask for if the practice can produce it. The practice has 30 days to respond, with one 30-day extension if it tells the patient why in writing. Any fee must be reasonable and cost based. HHS has settled dozens of cases with practices that were slow or charged too much.
-- **Other rights.** Patients can ask to correct their records, get a list of certain disclosures, limit sharing, and choose how they're contacted (for example, only on their cell phone).
+- **Notice of Privacy Practices.** Covered providers give patients a notice of how their information is used and what their rights are, and post it in the office and on the website.
+- **Right of access.** Patients can see and get a copy of their records, including electronic copies in the form they ask for if the practice can produce it. The practice has 30 days to respond, with one 30-day extension if it tells the patient why in writing. Any fee must be reasonable and cost based.
 
 ### The Security Rule
 
@@ -46,15 +45,15 @@ The Security Rule covers electronic PHI (ePHI). It requires administrative, phys
 - **Risk analysis.** An accurate, thorough look at where ePHI lives and what could go wrong, kept current. A missing or stale risk analysis appears in a large share of HHS enforcement actions. The free [HHS Security Risk Assessment Tool](https://www.healthit.gov/topic/privacy-security-and-hipaa/security-risk-assessment-tool) is built for small practices.
 - **Access control.** A unique user ID for each person, automatic logoff, and access limited to what each role needs.
 - **Audit controls.** Systems that record who looked at or changed ePHI, and someone who reviews those records.
-- **Integrity and transmission security.** Protecting ePHI from improper change, and encrypting it in transit where that's reasonable.
+- **Integrity and transmission security.** Protect ePHI from improper change, and encrypt it in transit where reasonable.
 - **Contingency planning.** Backups, a disaster recovery plan, and a way to keep caring for patients when systems are down.
-- **Security awareness and training** for the whole workforce, managers included.
+- **Security awareness and training** for the whole workforce.
 
-Some parts of the Security Rule are "addressable," which does not mean optional. The organization decides whether the safeguard is reasonable for it, and if not, documents why and what it does instead.
+"Addressable" safeguards are not optional. The organization decides whether the safeguard is reasonable for it, and if not, documents why and what it does instead.
 
 ### The Breach Notification Rule
 
-A breach is an impermissible use or disclosure of unsecured PHI. The rule presumes any such incident is a breach unless a documented risk assessment shows a low probability that the information was compromised. The assessment looks at four things: what information was involved, who received it, whether it was actually viewed or acquired, and how well the risk was reduced afterward.
+A breach is an impermissible use or disclosure of unsecured PHI. Any such incident is presumed a breach unless a documented risk assessment shows a low probability that the information was compromised.
 
 If it's a breach:
 
@@ -63,68 +62,48 @@ If it's a breach:
 - **The media** gets notice when more than 500 residents of one state or jurisdiction are affected.
 - **Business associates** tell the covered entity, also within 60 days of discovery. Many BAAs set a shorter deadline, often 5 to 10 days.
 
-PHI that was properly encrypted, with the key kept safe, is "secured," and losing it is not a reportable breach. That makes full-disk encryption on laptops and phones one of the best investments a small practice can make.
-
-State breach laws can add their own deadlines and notice rules.
+Properly encrypted PHI, with the key kept safe, is "secured," and losing it is not a reportable breach. Full-disk encryption on laptops and phones is one of the best investments a small practice can make. State breach laws can add their own deadlines and notice rules.
 
 ## What every workforce member needs to know
 
-HIPAA requires covered entities to train all workforce members on the privacy policies and procedures their jobs need, and to run a security awareness program for everyone. "Workforce" includes employees, volunteers, trainees, and temps, paid or not.
-
-The rule sets three timing points for privacy training: new workforce members within a reasonable time after they start, affected staff within a reasonable time after a material policy change, and everyone when the program begins. It does not say "annually." Annual training is still the norm and the safer practice, because people forget, threats change, and an annual record is easy to show an investigator.
-
-Teach these points:
+HIPAA requires training for all workforce members, including volunteers, trainees, and temps, on the privacy procedures their jobs need, plus a security awareness program for everyone. Privacy training is due within a reasonable time after a person starts and after a material policy change. The rule doesn't say "annually," but annual training is the norm and the easiest to prove to an investigator.
 
 1. **Look only at what your job needs.** Opening a neighbor's, coworker's, relative's, or celebrity's chart out of curiosity is a violation even if you tell no one. Record systems log every view.
-2. **Verify before you share.** Confirm a caller's identity. Check the fax number, email address, and name on the envelope before you send.
-3. **Use the approved tools.** Don't text PHI from a personal phone, email it from a personal account, or paste it into an unapproved app, including AI chat tools, unless the practice has a BAA with that vendor and approves it.
-4. **Keep it out of sight and earshot.** Lock screens when you step away. Turn papers face down. Keep voices down at the front desk and in hallways.
-5. **Don't post.** No photos, stories, or "guess who came in today" on social media, even without names. Details can identify a person.
-6. **Dispose of it properly.** Shred paper. Hand old devices to IT for wiping.
-7. **Spot phishing and report it.** Most health care breaches start with a stolen password or a malicious attachment. Report a suspicious email instead of deleting it.
-8. **Report mistakes right away.** A misdirected fax or a lost phone is far easier to handle on day 1 than on day 59. The 60-day clock starts when anyone in the workforce knows, not when the privacy officer hears.
-9. **Know your privacy officer and security officer by name**, and how to reach them.
-10. **Send access requests to the right person promptly**, so the 30-day deadline isn't missed.
+2. **Verify before you share.** Confirm a caller's identity. Check the fax number, email address, and name on the envelope.
+3. **Use the approved tools.** Don't text PHI from a personal phone, email it from a personal account, or paste it into an unapproved app, including AI chat tools, unless the practice has a BAA with that vendor.
+4. **Keep it out of sight and earshot, and off social media**, even without names. Lock screens, shred paper, and hand old devices to IT for wiping.
+5. **Report phishing and mistakes right away.** Most health care breaches start with a stolen password or a malicious attachment. A misdirected fax or a lost phone is far easier to handle on day 1 than on day 59. The 60-day clock starts when anyone in the workforce knows, not when the privacy officer hears.
+6. **Know your privacy officer and security officer**, and send access requests to the right person promptly.
 
 ## What the business needs on paper
 
-An investigator or auditor will ask to see documents. HIPAA requires you to keep required policies, procedures, and records of required actions (including training) for six years from creation or last effective date, whichever is later.
+HIPAA requires you to keep required policies, procedures, and records of required actions, including training, for six years from creation or last effective date, whichever is later.
 
-- A named privacy officer and a named security officer (one person can hold both in a small practice).
+- A named privacy officer and security officer (one person can hold both in a small practice).
 - Written privacy and security policies and procedures.
-- A current risk analysis and a risk management plan that tracks the fixes.
+- A current risk analysis and a plan that tracks the fixes.
 - A Notice of Privacy Practices, posted and handed out.
-- Signed BAAs with every business associate, and a list of who they are.
-- Training records: who, what, and when. The [training log template](../../templates/training-log.csv) works for this.
-- A sanctions policy for workforce members who break the rules, applied consistently.
-- An incident and breach log, including the risk assessments for incidents you decided were not breaches.
+- Signed BAAs with every business associate.
+- Training records. The [training log template](../../templates/training-log.csv) works for this.
+- A sanctions policy for workforce members who break the rules.
+- An incident and breach log, including risk assessments for incidents you decided were not breaches.
 - Backup, disaster recovery, and emergency operations plans.
 
 ## Penalties and enforcement
 
-The HHS Office for Civil Rights (OCR) enforces HIPAA. Most cases start with a patient complaint or a breach report. Most end with corrective action, and some end with a settlement or a civil money penalty.
+The HHS Office for Civil Rights (OCR) enforces HIPAA. Most cases start with a patient complaint or a breach report and end with corrective action, a settlement, or a civil money penalty.
 
 Civil penalties come in four tiers based on culpability. After the January 2026 inflation adjustment, per-violation amounts run from $145 at the lowest tier up to $2,190,294 for willful neglect that isn't corrected, with a calendar-year cap of $2,190,294 for violations of the same requirement. Since 2019, OCR has applied lower annual caps to the first three tiers as a matter of enforcement discretion.
 
-Criminal penalties apply to knowingly obtaining or disclosing PHI in violation of the law, and the Department of Justice prosecutes them. They reach up to $50,000 and one year in prison, up to $100,000 and five years under false pretenses, and up to $250,000 and ten years with intent to sell or use the information for gain or harm.
-
-State attorneys general can also bring HIPAA cases for their residents.
+Criminal penalties apply to knowingly obtaining or disclosing PHI in violation of the law, and the Department of Justice prosecutes them. They reach up to $50,000 and one year in prison, up to $100,000 and five years under false pretenses, and up to $250,000 and ten years with intent to sell or use the information for gain or harm. State attorneys general can also bring HIPAA cases for their residents.
 
 ## What's changing
 
-- **Security Rule update.** HHS proposed a major rewrite in January 2025. It would remove the addressable label from most safeguards, require encryption and multi-factor authentication with few exceptions, and require a written asset inventory and network map. As of this guide's review date it is still a proposal, and HHS has moved its target date more than once. Most of it is good practice already.
-- **Substance use disorder records (42 CFR Part 2).** A 2024 rule brought Part 2 closer to HIPAA. Programs covered by Part 2 had to comply by February 16, 2026.
-- **Reproductive health privacy rule.** A 2024 HIPAA rule adding protections for reproductive health information was vacated by a federal court in Texas in June 2025. Check with counsel before changing your Notice of Privacy Practices or forms based on it.
+- **Security Rule update.** HHS proposed a major rewrite in January 2025. It would remove the addressable label from most safeguards, require encryption and multi-factor authentication with few exceptions, and require a written asset inventory and network map. As of this guide's review date it is still a proposal. Most of it is good practice already.
+- **Substance use disorder records (42 CFR Part 2).** A 2024 rule brought Part 2 closer to HIPAA. Covered programs had to comply by February 16, 2026.
+- **Reproductive health privacy rule.** A federal court in Texas vacated this 2024 rule in June 2025. Check with counsel before changing your forms based on it.
 
-## Common mistakes
-
-- Treating the risk analysis as a one-time project. Refresh it when systems or the practice change, and on a regular schedule.
-- No BAA with the IT provider, cloud host, or email service.
-- Shared logins at the front desk or nurses' station.
-- Unencrypted laptops, phones, or USB drives.
-- Training once at hire and never again, or training with no record.
-- Ignoring access requests, or charging per-page fees for electronic copies.
-- Website tracking tools, such as ad pixels on appointment pages, that send visitor information to advertising companies. OCR has warned about this, and a federal court narrowed that guidance in 2024, but class action lawsuits continue.
+Website ad pixels on appointment pages that send visitor information to advertisers are a known risk. OCR has warned about them, a federal court narrowed that guidance in 2024, and class actions continue.
 
 Ask a health care attorney whether you're a covered entity, whether an incident is a reportable breach, and how to answer an inquiry from OCR.
 
@@ -134,7 +113,6 @@ Ask a health care attorney whether you're a covered entity, whether an incident 
 2. A laptop holding patient records is stolen from a car. Its disk was encrypted, and the password was not with it. Is it a reportable breach?
 3. How long does a practice have to respond to a patient's request for their records?
 4. Your IT company can log in to the server that holds patient records. What do you need from them?
-5. Does HIPAA say training must happen every year?
 
 <details>
 <summary>Answers</summary>
@@ -143,7 +121,6 @@ Ask a health care attorney whether you're a covered entity, whether an incident 
 2. Generally no. Properly encrypted PHI is secured, and losing secured PHI is not a reportable breach. Document the incident and your reasoning anyway.
 3. 30 days, with one 30-day extension if the patient is told why in writing.
 4. A signed business associate agreement, and assurance that they protect the information as the Security Rule requires.
-5. No. It requires training for new staff, after material policy changes, and a continuing security awareness program. Annual training is the common way to meet that and prove it.
 
 </details>
 

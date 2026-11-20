@@ -10,55 +10,42 @@ reviewed: 2026-11-19
 
 ## What SOC 2 is
 
-SOC 2 is a report, not a certification and not a law. An independent CPA firm examines your controls and issues an opinion on them under standards set by the American Institute of Certified Public Accountants (AICPA). Your customers read the report to decide whether to trust you with their data. Business customers, especially larger ones and regulated ones, often require it in contracts.
+SOC 2 is a report, not a certification and not a law. An independent CPA firm examines your controls and issues an opinion under American Institute of Certified Public Accountants (AICPA) standards. Larger and regulated business customers often require it in contracts.
 
-The controls are judged against the AICPA's **Trust Services Criteria**. Security (the "common criteria") is in every SOC 2 report. You can add Availability, Confidentiality, Processing Integrity, and Privacy if your customers need them.
-
-There are two types of report.
+Controls are judged against the AICPA's **Trust Services Criteria**. Security (the "common criteria") is in every report. You can add Availability, Confidentiality, Processing Integrity, and Privacy if your customers need them.
 
 - **Type 1** looks at whether your controls are designed properly as of a single date.
 - **Type 2** looks at whether they also worked over a period, usually 3 to 12 months. Customers generally want Type 2.
 
 ## What it takes
 
-1. **Decide why and for whom.** Confirm a customer actually needs SOC 2 and not something lighter, such as a completed questionnaire or a CSF-based summary.
-2. **Draw the boundary.** Pick the system the report covers, the criteria, and how it treats vendors such as your cloud provider.
-3. **Assess risk.** List what could go wrong and which controls address it.
-4. **Put controls in place and write policies.** Most companies end up with dozens of controls covering governance, people, access, change management, operations, incidents, vendors, and continuity.
-5. **Collect evidence as you go.** Auditors test samples, so controls need to leave records: tickets, logs, review sign-offs, and training records.
-6. **Choose an audit firm** and run a readiness review. An auditor's readiness assessment tells you whether your design is likely to hold up. A compliance platform (Vanta, Drata, and Secureframe are examples, not endorsements) can collect evidence once your controls exist, but it doesn't choose your scope or do the work.
-7. **Get through the observation period** for a Type 2, then the audit.
-
-SOC 2 Readiness walks through each step in eight modules, with a 90-day readiness plan.
+1. **Decide why and for whom.** Confirm a customer needs SOC 2 and not something lighter, such as a completed questionnaire.
+2. **Draw the boundary.** Pick the system, the criteria, and how vendors such as your cloud provider are treated.
+3. **Assess risk,** then **put controls in place and write policies.** Most companies end up with dozens.
+4. **Collect evidence as you go.** Auditors test samples, so controls need to leave records: tickets, logs, review sign-offs, and training records.
+5. **Choose an audit firm** and run a readiness review. A compliance platform (Vanta, Drata, and Secureframe are examples, not endorsements) can collect evidence once your controls exist, but it doesn't choose your scope or do the work.
+6. **Get through the observation period** for a Type 2, then the audit.
 
 ## Training in SOC 2
 
-The Trust Services Criteria expect the company to communicate security responsibilities to staff and to make sure people have the knowledge their roles need. In practice auditors look for:
+Auditors look for:
 
 - security awareness training at hire and at least once a year,
 - a signed acknowledgment of the code of conduct and security policies at hire and yearly,
 - role-specific training for engineers, support staff, and admins,
-- and records of all of it, for everyone in scope, including contractors.
+- and records of all of it for everyone in scope, including contractors.
 
-Missing training records for people the auditor samples produce exceptions in the report. The [acknowledgment form](../../templates/acknowledgment-form.md) and [training log](../../templates/training-log.csv) in this repository work for SOC 2 evidence.
+Missing records for people the auditor samples produce exceptions in the report. The [acknowledgment form](../../templates/acknowledgment-form.md) and [training log](../../templates/training-log.csv) here work as SOC 2 evidence.
 
 ## What staff need to know
 
-Staff in a SOC 2 company follow the same habits as any secure workplace (see [20 minutes to the NIST Cybersecurity Framework](20-minutes-to-nist-csf.md)), plus a few that matter because an auditor will test them.
+Staff follow the habits in [20 minutes to the NIST Cybersecurity Framework](20-minutes-to-nist-csf.md), plus a few an auditor will test:
 
 1. **Follow the process even when it's slow.** Changes need a ticket and a review. Access needs an approved request.
 2. **Leave a record.** If a control isn't recorded, the auditor treats it as not done.
 3. **Complete training and acknowledgments on time.**
 4. **Report incidents and near misses**, so the incident process has real entries.
 5. **Tell IT when someone leaves or changes roles**, so access is removed on time.
-
-## Common mistakes
-
-- Buying a compliance platform before understanding what the controls are for.
-- Scoping everything the company owns into the first report.
-- Writing policies that describe what the company wishes it did.
-- Quarterly access reviews that slip, leaving gaps in the observation period.
-- Forgetting contractors in training and background checks.
 
 This is training, not an audit or assurance. Only a licensed CPA firm can issue a SOC 2 report, and nothing here promises an auditor will accept your evidence.
 
@@ -67,8 +54,7 @@ This is training, not an audit or assurance. Only a licensed CPA firm can issue 
 1. Is SOC 2 a certification?
 2. Which Trust Services Criteria category is in every SOC 2 report?
 3. What's the difference between Type 1 and Type 2?
-4. What kind of firm can issue a SOC 2 report?
-5. Why do training records matter so much in a SOC 2 audit?
+4. Why do training records matter so much in a SOC 2 audit?
 
 <details>
 <summary>Answers</summary>
@@ -76,8 +62,7 @@ This is training, not an audit or assurance. Only a licensed CPA firm can issue 
 1. No. It's an attestation report with a CPA firm's opinion on your controls.
 2. Security, also called the common criteria.
 3. Type 1 covers design at a point in time. Type 2 also covers whether controls operated effectively over a period.
-4. A licensed CPA firm.
-5. Auditors test samples of people, and a missing record counts as an exception in the report.
+4. Auditors test samples of people, and a missing record counts as an exception in the report.
 
 </details>
 

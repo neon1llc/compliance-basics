@@ -5,7 +5,7 @@ domain: Payments
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to PCI DSS](20-minutes-to-pci-dss.md) first. Each day is one to two hours of work for the person leading the effort. The 20 days are a learning pace, not a deadline. Finishing the plan doesn't make a business compliant. If a step is already done, check it and move on. Keep the order: inventory before risk, and risk before policy.
+Read [20 minutes to PCI DSS](20-minutes-to-pci-dss.md) first. Each day is one to two hours for the person leading the effort. The pace is for learning, not a deadline, and finishing the plan doesn't make a business compliant. Skip steps already done, and keep the order.
 
 ## The plan
 
@@ -18,11 +18,11 @@ Read [20 minutes to PCI DSS](20-minutes-to-pci-dss.md) first. Each day is one to
 | 5 | Securely delete any card data you don't need, and all stored security codes. |
 | 6 | Ask your acquirer which SAQ applies and whether you need ASV scans. Get the login for their compliance portal. |
 | 7 | List your payment service providers and download each one's Attestation of Compliance. |
-| 8 | Consider moving to a hosted payment page or P2PE terminals to shrink your scope. Get quotes if needed. |
+| 8 | Consider a hosted payment page or P2PE terminals to shrink your scope. Get quotes if needed. |
 | 9 | Change every default password on terminals, routers, and the point-of-sale system. |
 | 10 | Separate the payment network from guest Wi-Fi and personal devices. |
 | 11 | Turn on multi-factor authentication for the payment portal, virtual terminal, and remote access. |
-| 12 | Make a list of payment terminals with serial numbers and locations. Photograph each one for comparison. |
+| 12 | List payment terminals with serial numbers and locations. Photograph each one for comparison. |
 | 13 | Inspect each terminal for tampering. Set a schedule for repeat checks. |
 | 14 | Write or update the security policy, acceptable use policy, and incident response plan. |
 | 15 | Schedule training for all staff. Use the [facilitator guide](../../training/facilitator-guide.md). |
@@ -34,10 +34,7 @@ Read [20 minutes to PCI DSS](20-minutes-to-pci-dss.md) first. Each day is one to
 
 ## After day 20
 
-- **Every quarter:** ASV vulnerability scans, if your SAQ requires them.
-- **On a set schedule:** inspections of card terminals for tampering, based on your risk.
-- **Every year:** security awareness training, policy acknowledgments, a review of the security policy, a check of each provider's Attestation of Compliance, and a new SAQ.
-- **When anything changes:** a new payment channel, provider, or terminal means a fresh look at your SAQ type.
+Quarterly: ASV scans, if your SAQ requires them. On a set schedule: terminal tamper inspections. Each year: training, policy acknowledgments, a policy review, a check of each provider's Attestation of Compliance, and a new SAQ. A new payment channel, provider, or terminal means a fresh look at your SAQ type.
 
 ## Sources
 

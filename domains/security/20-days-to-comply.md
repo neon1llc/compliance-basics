@@ -5,7 +5,7 @@ domain: Security
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to the NIST Cybersecurity Framework](20-minutes-to-nist-csf.md) and, if customers ask for a report, [20 minutes to SOC 2](20-minutes-to-soc-2.md) first. Each day is one to two hours of work for the person leading the effort. The 20 days are a learning pace, not a deadline. Finishing the plan doesn't make a business compliant. If a step is already done, check it and move on. Keep the order: inventory before risk, and risk before policy.
+Read [20 minutes to the NIST Cybersecurity Framework](20-minutes-to-nist-csf.md) and, if customers ask for a report, [20 minutes to SOC 2](20-minutes-to-soc-2.md) first. Each day is one to two hours for the person leading the effort. The pace is for learning, not a deadline, and finishing the plan doesn't make a business compliant. Skip steps already done, and keep the order.
 
 ## The plan
 
@@ -21,7 +21,7 @@ Read [20 minutes to the NIST Cybersecurity Framework](20-minutes-to-nist-csf.md)
 | 8 | Confirm anti-malware is running on every computer. |
 | 9 | Set up automated backups with one copy isolated from the network. Restore one file to prove it works. |
 | 10 | Change default passwords on routers, cameras, printers, and other devices. Separate guest Wi-Fi. |
-| 11 | Turn on email protections: SPF, DKIM, DMARC, and the filtering your email service offers. |
+| 11 | Turn on email protections: SPF, DKIM, DMARC, and your email service's filtering. |
 | 12 | Write a one-page security policy and an acceptable use policy. |
 | 13 | Write a one-page incident response plan with names, phone numbers, and who calls the insurer and lawyer. |
 | 14 | List key vendors and check their security, starting with IT, payroll, and anything holding customer data. |
@@ -34,10 +34,7 @@ Read [20 minutes to the NIST Cybersecurity Framework](20-minutes-to-nist-csf.md)
 
 ## After day 20
 
-- Every month: check that updates are installing and backups are running.
-- Every quarter: access reviews and a restore test.
-- Every year: training, policy review, a fresh current profile, vendor reviews, and a tabletop exercise.
-- If customers ask for SOC 2: use this program as the base and follow the 90-day plan in [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness).
+Monthly: check that updates install and backups run. Quarterly: access reviews and a restore test. Each year: training, policy review, a fresh current profile, vendor reviews, and a tabletop exercise. If customers ask for SOC 2, use this program as the base and follow the 90-day plan in [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness).
 
 ## Sources
 

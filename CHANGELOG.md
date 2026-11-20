@@ -9,6 +9,8 @@ Compliance Basics releases use `v0.MINOR.PATCH` until the first complete release
 - The walkthroughs no longer end with a pointer to the 20-day plan, and `tools/check.mjs` no longer requires a Next section.
 - Domain pages list their walkthroughs without repeating each one's description.
 - Tighter wording in the walkthroughs, training guide, and acknowledgment form.
+- Walkthroughs cut by 15 to 26 percent: merged repeated staff rules and mistakes lists, shortened background, and trimmed Check yourself to the questions that test a decision. Penalties, deadlines, figures, and Sources are unchanged.
+- The 20-day plans have a shorter introduction and closing section. The days are unchanged.
 
 ## v0.1.5 - 2026-11-19
 
