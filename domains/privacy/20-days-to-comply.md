@@ -5,7 +5,7 @@ domain: Privacy
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to state privacy laws](20-minutes-to-state-privacy-laws.md) first. Each day is one to two hours of work for the person leading the effort. The 20 days are a learning pace, not a deadline. Finishing the plan doesn't make a business compliant, and this plan is training, not legal advice or a compliance determination. If a step is already done, check it and move on. Keep the order: inventory before risk, and risk before policy.
+Read [20 minutes to state privacy laws](20-minutes-to-state-privacy-laws.md) first. One to two hours a day for the person leading. Skip steps already done, and keep the order.
 
 ## The plan
 
@@ -19,7 +19,7 @@ Read [20 minutes to state privacy laws](20-minutes-to-state-privacy-laws.md) fir
 | 6 | Turn on multi-factor authentication for email, file storage, and any system holding personal data. |
 | 7 | Confirm encryption on laptops, phones, and backups. |
 | 8 | List vendors that receive personal data. Check that contracts limit their use and require security. |
-| 9 | Review the website for ad and analytics tags. Decide whether they amount to selling or sharing data under the laws that apply, and add an opt-out and Global Privacy Control support if needed. |
+| 9 | Review the website's ad and analytics tags. Decide whether they amount to selling or sharing data under the laws that apply, and add an opt-out and Global Privacy Control support if needed. |
 | 10 | Compare the privacy notice to what you actually do. Fix the differences. |
 | 11 | If a comprehensive state law applies, set up a way to receive, verify, track, and answer privacy requests on time. |
 | 12 | Write a short security program using the SHIELD Act's list as the outline. |
@@ -34,10 +34,7 @@ Read [20 minutes to state privacy laws](20-minutes-to-state-privacy-laws.md) fir
 
 ## After day 20
 
-- Every year: training, a review of the privacy notice against actual practice, a refresh of the data inventory, and vendor reviews.
-- On a schedule: disposal of data past its retention period.
-- When anything changes: a new state with customers, a new vendor, or a new website tool means a fresh look at which laws apply.
-- After a breach: notices within the strictest applicable deadline, including New York's 30 days.
+Recheck which laws apply when you gain customers in a new state or add a vendor or website tool. After a breach, notify within the strictest applicable deadline, including New York's 30 days.
 
 ## Sources
 

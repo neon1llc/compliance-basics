@@ -5,7 +5,7 @@ domain: Life sciences
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to GxP](20-minutes-to-gxp.md) first. Each day is one to two hours of work for the person leading the effort. The 20 days are a learning pace, not a deadline. Finishing the plan doesn't make a business compliant, and this plan is training, not legal advice or a compliance determination. If a step is already done, check it and move on. Keep the order: inventory before risk, and risk before policy.
+Read [20 minutes to GxP](20-minutes-to-gxp.md) first. One to two hours a day for the person leading. Skip steps already done, and keep the order.
 
 ## The plan
 
@@ -14,16 +14,16 @@ Read [20 minutes to GxP](20-minutes-to-gxp.md) first. Each day is one to two hou
 | 1 | Name the GxP areas that apply to you (GMP, GLP, GCP, GDP) and the regions (U.S., EU, other). |
 | 2 | Name the head of quality, or the person acting in that role, and confirm they're independent of production. |
 | 3 | List every SOP you work to. Mark which are approved, current, and controlled. |
-| 4 | List every role and the SOPs each role needs. This is your training matrix. |
+| 4 | List every role and the SOPs each needs. This is your training matrix. |
 | 5 | Check training records against the matrix. List the gaps. |
 | 6 | List every computer system that creates or holds GxP records. |
 | 7 | For each system, note whether it's validated, whether the audit trail is on, and who has admin rights. |
 | 8 | Remove shared logins. Give each person their own account. |
-| 9 | Review admin access. Separate the people who manage systems from the people who create records where you can. |
+| 9 | Separate the people who manage systems from the people who create records where you can. |
 | 10 | Confirm backups exist for each GxP system and run one restore test. |
-| 11 | Write or update the change control SOP. Include IT changes. |
+| 11 | Write or update the change control SOP, including IT changes. |
 | 12 | Write or update the deviation and CAPA SOP. |
-| 13 | Write or update a good documentation SOP that covers ALCOA+ and corrections. |
+| 13 | Write or update a good documentation SOP covering ALCOA+ and corrections. |
 | 14 | Schedule GxP awareness training for everyone, and SOP training for each gap. Use the [facilitator guide](../../training/facilitator-guide.md). |
 | 15 | Run the awareness session. Collect [acknowledgments](../../templates/acknowledgment-form.md). |
 | 16 | Close the top-priority SOP training gaps. Record each one. |
@@ -34,10 +34,7 @@ Read [20 minutes to GxP](20-minutes-to-gxp.md) first. Each day is one to two hou
 
 ## After day 20
 
-- **On a set schedule:** periodic SOP reviews, user access reviews, and audit trail reviews for each GxP system.
-- **Every year:** GxP awareness refresher training and an internal audit of each area.
-- **Before any change:** change control for equipment, processes, documents, and IT systems, with training on new SOP versions before anyone works to them.
-- **Keep for the required retention period:** training records, validation records, and GxP data, which can run years past product expiry or study end.
+Run change control before any change, and train on new SOP versions before anyone works to them. Keep training, validation, and GxP records for the full retention period, which can run years past product expiry or study end.
 
 ## Sources
 

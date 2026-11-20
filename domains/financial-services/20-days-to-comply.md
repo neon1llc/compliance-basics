@@ -5,7 +5,7 @@ domain: Financial services
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to the FTC Safeguards Rule](20-minutes-to-ftc-safeguards.md) first. Each day is one to two hours of work for the person leading the effort. The 20 days are a learning pace, not a deadline. Finishing the plan doesn't make a business compliant, and this plan is training, not legal advice or a compliance determination. If a step is already done, check it and move on. Keep the order: inventory before risk, and risk before policy.
+Read [20 minutes to the FTC Safeguards Rule](20-minutes-to-ftc-safeguards.md) first. One to two hours a day for the person leading. Skip steps already done, and keep the order.
 
 ## The plan
 
@@ -18,10 +18,10 @@ Read [20 minutes to the FTC Safeguards Rule](20-minutes-to-ftc-safeguards.md) fi
 | 5 | List every service provider that can access customer information. Check each contract for security terms. |
 | 6 | Turn on MFA for email, tax or lending software, the client portal, and remote access. |
 | 7 | Confirm encryption on laptops, phones, backups, and file transfers. |
-| 8 | Review who has access to what. Remove access that people don't need, including former staff. |
-| 9 | Write the risk assessment. A simple table of risks, likelihood, impact, current controls, and next steps works. |
+| 8 | Remove access people don't need, including former staff. |
+| 9 | Write the risk assessment. A table of risks, likelihood, impact, current controls, and next steps works. |
 | 10 | Start the WISP. For tax firms, IRS Publication 5708 has a template. |
-| 11 | Write the retention and disposal policy. Securely dispose of what's past the two-year mark with no reason to keep it. |
+| 11 | Write the retention and disposal policy. Securely dispose of what's past two years with no reason to keep it. |
 | 12 | Turn on logging for key systems and decide who reviews the logs. |
 | 13 | Book vulnerability scans and a penetration test, or document continuous monitoring. |
 | 14 | Write the incident response plan, including the 30-day FTC report and state notices. |
@@ -34,10 +34,7 @@ Read [20 minutes to the FTC Safeguards Rule](20-minutes-to-ftc-safeguards.md) fi
 
 ## After day 20
 
-- **Every six months:** vulnerability scans, unless you have continuous monitoring.
-- **Every year:** a penetration test, security awareness training, a written report to the board or senior officer, and a fresh look at the risk assessment.
-- **Periodically:** service provider reviews, access reviews, and disposal of data past the two-year mark.
-- **Within 30 days of discovery:** an FTC report for any notification event involving 500 or more consumers.
+Dispose of data past two years. Report any notification event involving 500 or more consumers to the FTC within 30 days of discovery. Repeat the risk assessment each year.
 
 ## Sources
 

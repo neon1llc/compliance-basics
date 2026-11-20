@@ -5,14 +5,14 @@ domain: Marketing
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to CAN-SPAM](20-minutes-to-can-spam.md) and [20 minutes to the TCPA](20-minutes-to-tcpa.md) first. Each day is one to two hours of work for the person leading the effort. The 20 days are a learning pace, not a deadline. Finishing the plan doesn't make a business compliant, and this plan is training, not legal advice or a compliance determination. If a step is already done, check it and move on. Keep the order: inventory before risk, and risk before policy.
+Read [20 minutes to CAN-SPAM](20-minutes-to-can-spam.md) and [20 minutes to the TCPA](20-minutes-to-tcpa.md) first. One to two hours a day for the person leading. Skip steps already done, and keep the order.
 
 ## The plan
 
 | Day | Do this |
 |---|---|
 | 1 | Name the person responsible for email and text compliance. |
-| 2 | List every tool that sends email or texts for the business: marketing platforms, CRM, booking and billing systems, and sales tools. |
+| 2 | List every tool that sends email or texts: marketing platforms, CRM, booking and billing systems, and sales tools. |
 | 3 | For each list, write down how contacts joined it. Delete purchased or scraped lists. |
 | 4 | Check every marketing email template for an accurate From name, the postal address, and a working unsubscribe link. |
 | 5 | Combine suppression lists so an opt-out in one tool applies in all of them. |
@@ -21,10 +21,10 @@ Read [20 minutes to CAN-SPAM](20-minutes-to-can-spam.md) and [20 minutes to the 
 | 8 | For texting: sort messages into informational and marketing, and check that each number has the right consent. |
 | 9 | Review opt-in language on forms. Marketing texts need clear written consent that isn't a condition of purchase. |
 | 10 | Store consent records: date, source, the exact language shown, and the number. |
-| 11 | Check that STOP, HELP, and plain-language opt-outs work in your texting system, and that opt-outs are honored within 10 business days. |
+| 11 | Check that STOP, HELP, and plain-language opt-outs work in your texting system and are honored within 10 business days. |
 | 12 | Set sending windows so no marketing calls or texts go out before 8 a.m. or after 9 p.m. in the recipient's time zone. |
 | 13 | Complete 10DLC brand and campaign registration, or toll-free verification, for business texting numbers. |
-| 14 | If you telemarket, set up National Do Not Call Registry scrubs every 31 days and an internal do-not-call list and policy. |
+| 14 | If you telemarket, set up Do Not Call Registry scrubs every 31 days and an internal do-not-call list and policy. |
 | 15 | Check vendor and lead-seller contracts for consent and compliance terms. |
 | 16 | Train marketing, sales, and front-desk staff. Use the [facilitator guide](../../training/facilitator-guide.md). |
 | 17 | Record the training in the [training log](../../templates/training-log.csv). |
@@ -34,10 +34,7 @@ Read [20 minutes to CAN-SPAM](20-minutes-to-can-spam.md) and [20 minutes to the 
 
 ## After day 20
 
-- Every month: check that opt-outs sync across tools and that spam complaint rates stay low.
-- Every 31 days: Do Not Call Registry scrubs, if you telemarket.
-- Every year: review templates, consent language, vendor contracts, and training.
-- Before any new tool sends messages: connect it to the shared suppression list and check its consent records.
+Before any new tool sends messages, connect it to the shared suppression list.
 
 ## Sources
 
