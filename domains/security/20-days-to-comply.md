@@ -5,7 +5,7 @@ domain: Security
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to the NIST Cybersecurity Framework](20-minutes-to-nist-csf.md) and, if customers ask for a report, [20 minutes to SOC 2](20-minutes-to-soc-2.md) first. Each day is one to two hours for the person leading the effort. The pace is for learning, not a deadline, and finishing the plan doesn't make a business compliant. Skip steps already done, and keep the order.
+Read [20 minutes to the NIST Cybersecurity Framework](20-minutes-to-nist-csf.md) and, if customers ask for a report, [20 minutes to SOC 2](20-minutes-to-soc-2.md) first. One to two hours a day for the person leading. Skip steps already done, and keep the order.
 
 ## The plan
 
@@ -30,11 +30,11 @@ Read [20 minutes to the NIST Cybersecurity Framework](20-minutes-to-nist-csf.md)
 | 17 | Write the current profile: for each CSF function, a few lines on where you stand. |
 | 18 | Write the target profile and the top ten gaps, each with an owner and a date. |
 | 19 | Run a 30-minute tabletop exercise: ransomware on the office file server. |
-| 20 | Set the calendar: monthly patch checks, quarterly access reviews and restore tests, annual training, policy review, and profile update. |
+| 20 | Set the calendar: monthly patch checks, quarterly access reviews and restore tests, annual training, policy review, vendor reviews, and profile update. |
 
 ## After day 20
 
-Monthly: check that updates install and backups run. Quarterly: access reviews and a restore test. Each year: training, policy review, a fresh current profile, vendor reviews, and a tabletop exercise. If customers ask for SOC 2, use this program as the base and follow the 90-day plan in [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness).
+Run a tabletop exercise each year. If customers ask for SOC 2, use this program as the base and follow the 90-day plan in [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness).
 
 ## Sources
 

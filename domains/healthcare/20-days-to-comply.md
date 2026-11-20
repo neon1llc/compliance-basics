@@ -5,7 +5,7 @@ domain: Healthcare
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to HIPAA](20-minutes-to-hipaa.md) first. Each day is one to two hours for the person leading the effort. The pace is for learning, not a deadline, and finishing the plan doesn't make a business compliant. Skip steps already done, and keep the order.
+Read [20 minutes to HIPAA](20-minutes-to-hipaa.md) first. One to two hours a day for the person leading. Skip steps already done, and keep the order.
 
 ## The plan
 
@@ -34,7 +34,7 @@ Read [20 minutes to HIPAA](20-minutes-to-hipaa.md) first. Each day is one to two
 
 ## After day 20
 
-Each year: training and acknowledgments, and a review of the risk analysis, policies, and Notice of Privacy Practices. Each quarter: an access review and a test restore. When anything changes: update the risk analysis, sign a BAA before a new vendor touches PHI, and train staff on policy changes. Keep policies, risk analyses, training records, BAAs, and breach assessments for six years.
+Sign a BAA before a new vendor touches PHI, and update the risk analysis when anything changes. Keep policies, risk analyses, training records, BAAs, and breach assessments for six years.
 
 ## Sources
 

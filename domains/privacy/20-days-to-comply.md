@@ -5,7 +5,7 @@ domain: Privacy
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to state privacy laws](20-minutes-to-state-privacy-laws.md) first. Each day is one to two hours for the person leading the effort. The pace is for learning, not a deadline, and finishing the plan doesn't make a business compliant. Skip steps already done, and keep the order.
+Read [20 minutes to state privacy laws](20-minutes-to-state-privacy-laws.md) first. One to two hours a day for the person leading. Skip steps already done, and keep the order.
 
 ## The plan
 
@@ -34,7 +34,7 @@ Read [20 minutes to state privacy laws](20-minutes-to-state-privacy-laws.md) fir
 
 ## After day 20
 
-Each year: training, a check of the privacy notice against practice, a refreshed data inventory, and vendor reviews. On a schedule: disposal of data past its retention period. When anything changes, such as a new state with customers, a new vendor, or a new website tool, recheck which laws apply. After a breach: notices within the strictest applicable deadline, including New York's 30 days.
+Recheck which laws apply when you gain customers in a new state or add a vendor or website tool. After a breach, notify within the strictest applicable deadline, including New York's 30 days.
 
 ## Sources
 

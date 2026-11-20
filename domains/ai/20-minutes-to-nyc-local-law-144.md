@@ -6,55 +6,53 @@ rules: "NYC Local Law 144 of 2021 (NYC Administrative Code §§ 20-870 to 20-874
 reviewed: 2026-11-19
 ---
 
-**Read this if** you hire or promote people for jobs in New York City, or you're a recruiter or staffing agency placing candidates there, and you use software that scores, ranks, screens, or recommends candidates. Resume screeners, video interview scoring, and assessments built into applicant tracking systems can all count.
+**Read this if** you hire or promote people for jobs in New York City, or you're a recruiter or staffing agency placing candidates there, and you use software that scores, ranks, screens, or recommends candidates. Resume screeners, video interview scoring, and assessments inside applicant tracking systems can all count.
 
 ## What the law covers
 
-Local Law 144 regulates **automated employment decision tools (AEDTs)**: processes based on machine learning, statistical modeling, data analytics, or AI that issue a simplified output, such as a score, classification, or recommendation, used to substantially assist or replace discretionary decision making for employment decisions. The Department of Consumer and Worker Protection (DCWP) has enforced it since July 5, 2023.
+Local Law 144 regulates **automated employment decision tools (AEDTs)**: machine learning, statistical, data analytics, or AI processes that issue a simplified output, such as a score, classification, or recommendation, used to substantially assist or replace discretionary employment decisions. The Department of Consumer and Worker Protection (DCWP) has enforced it since July 5, 2023.
 
-Under DCWP's rules, a tool "substantially assists or replaces" a decision when its output is the only criterion, carries more weight than any other criterion, or is used to overrule a human's conclusion. A tool that only helps a recruiter search a database may fall outside the definition, but the line is narrow, so many employers follow the law's practices anyway.
+Under DCWP's rules, a tool "substantially assists or replaces" a decision when its output is the only criterion, carries more weight than any other, or overrules a human's conclusion. A tool that only helps a recruiter search a database may fall outside the definition, but the line is narrow.
 
 ## What it requires
 
-1. **A bias audit within the past year.** Before using an AEDT, an independent auditor must have audited it within one year. The audit calculates selection or scoring rates and impact ratios by sex, race and ethnicity, and their intersections.
-2. **A public summary.** The employer posts the latest audit results, the audit date, the tool's distribution date, and the data source in the employment section of its website.
-3. **Candidate notices.** Candidates and employees who live in New York City get notice at least 10 business days before the tool is used that an AEDT will be used, and what job qualifications and characteristics it will assess. The notice must explain how to request an alternative selection process or a reasonable accommodation, if available.
-4. **Data information on request.** If not posted, the employer gives information about the type of data collected, its source, and the retention policy within 30 days of a written request.
+1. **A bias audit within the past year.** An independent auditor must have audited the AEDT within one year before use. The audit calculates selection or scoring rates and impact ratios by sex, race and ethnicity, and their intersections.
+2. **A public summary.** Post the latest audit results, the audit date, the tool's distribution date, and the data source in the employment section of your website.
+3. **Candidate notices.** Candidates and employees who live in New York City get notice at least 10 business days before use. It says an AEDT will be used and what qualifications and characteristics it assesses, and how to request an alternative process or reasonable accommodation, if available.
+4. **Data information on request.** If it isn't posted, give the type of data collected, its source, and the retention policy within 30 days of a written request.
 
-The law doesn't ban using a tool that shows disparities. Federal, state, and city anti-discrimination laws still apply, and a tool with disparate impact can create liability under them.
+The law doesn't ban a tool that shows disparities, but federal, state, and city anti-discrimination laws still apply and can create liability.
 
 ## Penalties
 
-Civil penalties are up to $500 for a first violation and each additional violation the same day, and $500 to $1,500 for each later violation. Each day a noncompliant tool is used, and each failure to give a required notice, counts as a separate violation.
+Civil penalties are up to $500 for a first violation and each additional violation the same day, and $500 to $1,500 for each later one. Each day a noncompliant tool is used, and each missed notice, is a separate violation.
 
 ## What hiring teams need to know
 
-1. **Know which tools in your hiring process score or rank people**, including features inside the applicant tracking system.
-2. **Check the bias audit date** before using a tool, and that the summary is posted.
-3. **Send notices 10 business days ahead**, and route requests for alternative processes or accommodations.
-4. **Don't let a score decide alone**, and report concerns about a tool treating groups differently.
+1. **Know which hiring tools score or rank people**, including features inside the applicant tracking system.
+2. **Check the bias audit date** and the posted summary before using a tool.
+3. **Send notices 10 business days ahead**, and route requests for alternatives or accommodations.
+4. **Don't let a score decide alone.** Report tools that treat groups differently.
 
 ## What the business needs on paper
 
-- An inventory of hiring tools and whether each is an AEDT.
-- The current bias audit for each AEDT, the posted summary, and copies of candidate notices.
-- Vendor contracts that require the vendor to support audits and share data.
-- Training records. See the [training log](../../templates/training-log.csv).
+- An inventory of hiring tools, marking which are AEDTs.
+- Each tool's current bias audit and posted summary, and copies of candidate notices.
+- Vendor contracts that support audits.
+- Training records ([training log](../../templates/training-log.csv)).
 
-The bias audit has to come from an independent auditor, and an attorney can tell you whether a tool counts as an AEDT.
+An attorney can tell you whether a tool counts as an AEDT.
 
 ## Check yourself
 
-1. How recent must the bias audit be?
-2. How far in advance must candidates be notified?
-3. Does the law ban using a tool whose audit shows disparities?
+1. How far in advance must candidates be notified?
+2. Does the law ban using a tool whose audit shows disparities?
 
 <details>
 <summary>Answers</summary>
 
-1. Within one year before use.
-2. At least 10 business days before the tool is used.
-3. No, but anti-discrimination laws still apply.
+1. At least 10 business days before the tool is used.
+2. No, but anti-discrimination laws still apply.
 
 </details>
 

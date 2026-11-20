@@ -4,71 +4,61 @@ description: "How to turn any walkthrough in this repository into a short traini
 reviewed: 2026-11-12
 ---
 
-Most rules here require or expect training, and nearly all expect proof it happened. This guide is for the owner, office manager, or IT lead who runs that training without a learning management system or a big budget.
+Most rules here require or expect training, and nearly all expect proof. This guide is for the owner, office manager, or IT lead who runs it without a learning management system or a big budget.
 
 ## Pick the format
 
 | Format | Time | Good for |
 |---|---|---|
-| Self-study | About 20 minutes | Reading one walkthrough and answering its "Check yourself" questions. Fits remote staff and new hires. |
+| Self-study | About 20 minutes | One walkthrough and its "Check yourself" questions. Fits remote staff and new hires. |
 | Short session | 30 minutes | A team meeting: the walkthrough's staff points, two or three real examples, and the check questions out loud. |
 | Workshop | 60 to 90 minutes | First-time training, or a group that handles regulated data all day. Add a scenario exercise and the 20-day plan's first steps. |
 
-Pick by risk. People who handle patient records, card data, client tax files, or student records all day get the longer format the first time. Everyone else can usually do the short session or self-study, with a yearly refresher.
+People who handle patient records, card data, client tax files, or student records all day get the workshop the first time. Everyone else usually does the short session or self-study, with a yearly refresher.
 
 ## Prepare (about an hour)
 
-1. **Choose the walkthrough** for your domain, and read it yourself.
-2. **Pull out your own policies.** Training on the rule alone isn't enough. Most rules require training on your own policies and procedures: who the privacy officer is, which tools are approved, how to report an incident, and where forms live.
-3. **Collect two or three local examples**, with names removed: a misdirected email, a phishing message staff received, a near miss at the front desk. People remember real examples.
-4. **Print or share** the walkthrough's "What every staff member needs to know" list as a one-page handout.
-5. **Prepare the acknowledgment form.** Fill in the policy names and version dates on the [acknowledgment form](../templates/acknowledgment-form.md).
+1. **Choose the walkthrough** for your domain, and read it.
+2. **Pull out your own policies.** Most rules require training on your procedures: who the privacy officer is, which tools are approved, how to report an incident, and where forms live.
+3. **Collect two or three local examples** with names removed: a misdirected email, a phishing message, a near miss at the front desk.
+4. **Share the walkthrough's staff list** as a one-page handout.
+5. **Fill in the policy names and version dates** on the [acknowledgment form](../templates/acknowledgment-form.md).
 
 ## Run a 30-minute session
 
 | Minutes | What happens |
 |---|---|
-| 0 to 3 | Why this matters here: who the rule protects, and one sentence on what goes wrong without it. |
-| 3 to 15 | The staff points from the walkthrough, one at a time, each tied to your own procedure. |
+| 0 to 3 | Who the rule protects, and what goes wrong without it. |
+| 3 to 15 | The staff points, one at a time, each tied to your own procedure. |
 | 15 to 22 | Your local examples. Ask "What would you do?" before giving the answer. |
 | 22 to 27 | The "Check yourself" questions, answered out loud. |
 | 27 to 30 | Who to call, how to report, and where the policies live. Hand out the acknowledgment form. |
 
-Keep the tone practical. People report mistakes faster when honest errors aren't punished. Say so plainly, and make sure your sanctions policy agrees for good-faith reports.
+People report mistakes faster when honest errors aren't punished. Say so, and make sure your sanctions policy agrees for good-faith reports.
 
-## For a workshop, add a scenario
+## Workshop scenarios
 
 Pick one and work it as a group, step by step.
 
 - **Healthcare:** A staff member emails a spreadsheet of patient appointments to the wrong address. Walk through the four-factor risk assessment and the 60-day clock.
 - **Payments:** A customer emails their card number to place an order. What do you do with the email, and the order?
-- **Financial services:** A client calls saying the IRS rejected their return because one was already filed. What does that suggest, and who gets told?
+- **Financial services:** A client says the IRS rejected their return because one was already filed. What does that suggest, and who gets told?
 - **Education:** A noncustodial parent asks for their child's report card. What do you check first?
 - **Marketing:** A customer replies "no more" to a promotional text. Which systems need updating, and by when?
 - **AI use:** A colleague wants to paste a client contract into a free chat tool to summarize it. What's the answer, and what's the alternative?
 
 ## Keep the records
 
-An investigator, auditor, or customer will ask for proof. For each session, record:
-
-- the date, format, and length,
-- the topic and the walkthrough or materials used, with their version or review date,
-- who attended, by name and role,
-- who led it,
-- and each person's signed acknowledgment of the policies covered.
-
-The [training log](../templates/training-log.csv) has these columns. Keep records at least as long as the strictest rule that applies to you. HIPAA, for example, requires six years.
+For each session, record the date, format, and length, the materials used with their version or review date, who led it, who attended by name and role, and each person's signed acknowledgment. The [training log](../templates/training-log.csv) has these columns. Keep records at least as long as the strictest rule that applies to you. HIPAA requires six years.
 
 ## Follow up
 
-- **New hires** get training before or soon after they first touch regulated data. Several rules say "within a reasonable time" or "upon hire."
+- **New hires** get training before or soon after they first touch regulated data.
 - **Policy changes** trigger training for the people affected.
-- **Refreshers** happen at least once a year, even where the rule doesn't name a frequency. PCI DSS, New York's student data rules, and the DFS cybersecurity rule do require annual training.
-- **Short reminders** between sessions help more than one long annual session. A two-line note about a current phishing trend counts as security awareness.
+- **Refreshers** happen at least yearly, even where the rule names no frequency. PCI DSS, New York's student data rules, and the DFS cybersecurity rule require annual training.
+- **Short reminders** help more than one long annual session. A two-line note about a current phishing trend counts as security awareness.
 
-## Measure whether it worked
-
-Attendance is a record, not a result. Better signs are more incident reports (near misses included), fewer repeat mistakes, faster responses to records requests, and fewer clicks on phishing tests. Pick one or two and check them before the next session.
+Attendance is a record, not a result. Better signs are more incident reports, near misses included, fewer repeat mistakes, faster responses to records requests, and fewer clicks on phishing tests.
 
 ## Related material
 

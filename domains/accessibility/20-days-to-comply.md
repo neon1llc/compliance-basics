@@ -5,7 +5,7 @@ domain: Accessibility
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to the ADA and WCAG](20-minutes-to-ada-and-wcag.md) first. Each day is one to two hours for the person leading the effort. The pace is for learning, not a deadline, and finishing the plan doesn't make a business compliant. Skip steps already done, and keep the order.
+Read [20 minutes to the ADA and WCAG](20-minutes-to-ada-and-wcag.md) first. One to two hours a day for the person leading. Skip steps already done, and keep the order.
 
 ## The plan
 
@@ -34,7 +34,7 @@ Read [20 minutes to the ADA and WCAG](20-minutes-to-ada-and-wcag.md) first. Each
 
 ## After day 20
 
-Quarterly spot checks with an automated tool and a keyboard. An annual audit that includes assistive technology, plus refresher training. Accessibility requirements before anything new launches. A tracked fix for every reported barrier.
+Add accessibility requirements before anything new launches, and track a fix for every reported barrier.
 
 ## Sources
 

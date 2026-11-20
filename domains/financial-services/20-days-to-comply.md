@@ -5,7 +5,7 @@ domain: Financial services
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to the FTC Safeguards Rule](20-minutes-to-ftc-safeguards.md) first. Each day is one to two hours for the person leading the effort. The pace is for learning, not a deadline, and finishing the plan doesn't make a business compliant. Skip steps already done, and keep the order.
+Read [20 minutes to the FTC Safeguards Rule](20-minutes-to-ftc-safeguards.md) first. One to two hours a day for the person leading. Skip steps already done, and keep the order.
 
 ## The plan
 
@@ -34,7 +34,7 @@ Read [20 minutes to the FTC Safeguards Rule](20-minutes-to-ftc-safeguards.md) fi
 
 ## After day 20
 
-Scans every six months unless you have continuous monitoring. Each year: a penetration test, training, a written report to the board or senior officer, and a fresh risk assessment. Periodically: provider reviews, access reviews, and disposal of data past two years. Within 30 days of discovery: an FTC report for any notification event involving 500 or more consumers.
+Dispose of data past two years. Report any notification event involving 500 or more consumers to the FTC within 30 days of discovery. Repeat the risk assessment each year.
 
 ## Sources
 

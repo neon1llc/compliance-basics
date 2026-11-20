@@ -5,7 +5,7 @@ domain: Education
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to FERPA](20-minutes-to-ferpa.md) and, if you build or choose tools for children under 13, [20 minutes to COPPA](20-minutes-to-coppa.md) first. Each day is one to two hours for the person leading the effort. The pace is for learning, not a deadline, and finishing the plan doesn't make a business compliant. Skip steps already done, and keep the order.
+Read [20 minutes to FERPA](20-minutes-to-ferpa.md) and, if you build or choose tools for children under 13, [20 minutes to COPPA](20-minutes-to-coppa.md) first. One to two hours a day for the person leading. Skip steps already done, and keep the order.
 
 ## The plan
 
@@ -34,7 +34,7 @@ Read [20 minutes to FERPA](20-minutes-to-ferpa.md) and, if you build or choose t
 
 ## After day 20
 
-Each school year: the FERPA notice, the directory information notice and opt-out window, and the approved app list. Each year: training (required in New York), a vendor contract review, and an access review. Before any new app is used with students: a contract and a COPPA check. On request: records inspection within 45 days.
+Before any new app is used with students, get a contract and run a COPPA check. Answer records requests within 45 days. Training is required each year in New York.
 
 ## Sources
 

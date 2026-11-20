@@ -5,7 +5,7 @@ domain: AI use
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to the NIST AI Risk Management Framework](20-minutes-to-nist-ai-rmf.md) and, if you hire in New York City, [20 minutes to NYC Local Law 144](20-minutes-to-nyc-local-law-144.md) first. Each day is one to two hours for the person leading the effort. The pace is for learning, not a deadline, and finishing the plan doesn't make a business compliant. Skip steps already done, and keep the order.
+Read [20 minutes to the NIST AI Risk Management Framework](20-minutes-to-nist-ai-rmf.md) and, if you hire in New York City, [20 minutes to NYC Local Law 144](20-minutes-to-nyc-local-law-144.md) first. One to two hours a day for the person leading. Skip steps already done, and keep the order.
 
 ## The plan
 
@@ -34,7 +34,7 @@ Read [20 minutes to the NIST AI Risk Management Framework](20-minutes-to-nist-ai
 
 ## After day 20
 
-Update the tool inventory quarterly, since vendors add AI features often. Each year, repeat training, review the policy, and recheck high-impact uses, with a new bias audit for NYC hiring tools before the old one turns a year old. Check data terms before adopting any new tool, and treat a leak or harmful output as an incident.
+Check data terms before adopting any new tool. Get a new bias audit for NYC hiring tools before the old one turns a year old. Treat a leak or harmful output as an incident.
 
 ## Sources
 

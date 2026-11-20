@@ -5,7 +5,7 @@ domain: Marketing
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to CAN-SPAM](20-minutes-to-can-spam.md) and [20 minutes to the TCPA](20-minutes-to-tcpa.md) first. Each day is one to two hours for the person leading the effort. The pace is for learning, not a deadline, and finishing the plan doesn't make a business compliant. Skip steps already done, and keep the order.
+Read [20 minutes to CAN-SPAM](20-minutes-to-can-spam.md) and [20 minutes to the TCPA](20-minutes-to-tcpa.md) first. One to two hours a day for the person leading. Skip steps already done, and keep the order.
 
 ## The plan
 
@@ -34,7 +34,7 @@ Read [20 minutes to CAN-SPAM](20-minutes-to-can-spam.md) and [20 minutes to the 
 
 ## After day 20
 
-Monthly: check that opt-outs sync across tools and spam complaint rates stay low. Every 31 days: Do Not Call scrubs, if you telemarket. Each year: review templates, consent language, vendor contracts, and training. Before any new tool sends messages: connect it to the shared suppression list.
+Before any new tool sends messages, connect it to the shared suppression list.
 
 ## Sources
 

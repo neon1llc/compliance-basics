@@ -5,7 +5,7 @@ domain: Payments
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to PCI DSS](20-minutes-to-pci-dss.md) first. Each day is one to two hours for the person leading the effort. The pace is for learning, not a deadline, and finishing the plan doesn't make a business compliant. Skip steps already done, and keep the order.
+Read [20 minutes to PCI DSS](20-minutes-to-pci-dss.md) first. One to two hours a day for the person leading. Skip steps already done, and keep the order.
 
 ## The plan
 
@@ -34,7 +34,7 @@ Read [20 minutes to PCI DSS](20-minutes-to-pci-dss.md) first. Each day is one to
 
 ## After day 20
 
-Quarterly: ASV scans, if your SAQ requires them. On a set schedule: terminal tamper inspections. Each year: training, policy acknowledgments, a policy review, a check of each provider's Attestation of Compliance, and a new SAQ. A new payment channel, provider, or terminal means a fresh look at your SAQ type.
+A new payment channel, provider, or terminal means a fresh look at your SAQ type.
 
 ## Sources
 

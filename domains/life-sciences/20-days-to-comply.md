@@ -5,7 +5,7 @@ domain: Life sciences
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to GxP](20-minutes-to-gxp.md) first. Each day is one to two hours for the person leading the effort. The pace is for learning, not a deadline, and finishing the plan doesn't make a business compliant. Skip steps already done, and keep the order.
+Read [20 minutes to GxP](20-minutes-to-gxp.md) first. One to two hours a day for the person leading. Skip steps already done, and keep the order.
 
 ## The plan
 
@@ -34,7 +34,7 @@ Read [20 minutes to GxP](20-minutes-to-gxp.md) first. Each day is one to two hou
 
 ## After day 20
 
-On a set schedule: SOP reviews, user access reviews, and audit trail reviews for each GxP system. Each year: refresher training and an internal audit of each area. Before any change: change control, with training on new SOP versions before anyone works to them. Keep training records, validation records, and GxP data for the required retention period, which can run years past product expiry or study end.
+Run change control before any change, and train on new SOP versions before anyone works to them. Keep training, validation, and GxP records for the full retention period, which can run years past product expiry or study end.
 
 ## Sources
 

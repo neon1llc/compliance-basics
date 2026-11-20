@@ -6,46 +6,46 @@ rules: "Telephone Consumer Protection Act (47 U.S.C. § 227), FCC rules at 47 CF
 reviewed: 2026-11-19
 ---
 
-**Read this if** your business sends text messages to customers (appointment reminders, order updates, promotions, or two-factor codes), makes sales calls, or uses software that dials or texts automatically. It's one of the most litigated consumer laws in the country.
+**Read this if** your business texts customers (reminders, order updates, promotions, or two-factor codes), makes sales calls, or uses software that dials or texts automatically. It's one of the most litigated consumer laws in the country.
 
 ## What the TCPA is
 
-The Telephone Consumer Protection Act (TCPA) limits calls and texts to consumers. Courts treat a text as a call. The Federal Communications Commission (FCC) writes the rules. The FTC's Telemarketing Sales Rule adds telemarketing requirements and runs the National Do Not Call Registry.
+The Telephone Consumer Protection Act (TCPA) limits calls and texts to consumers. Courts treat a text as a call. The FCC writes the rules. The FTC's Telemarketing Sales Rule adds telemarketing requirements and runs the National Do Not Call Registry.
 
-Consumers can sue directly. Statutory damages are **$500 per call or text**, and up to **$1,500** if the violation was willful or knowing. A few thousand messages to people who didn't consent can become a class action worth millions.
+Consumers can sue directly. Statutory damages are **$500 per call or text**, and up to **$1,500** if willful or knowing. A few thousand messages to people who didn't consent can become a class action worth millions.
 
-## Consent: the core rule
+## Consent
 
 | Message | Consent needed |
 |---|---|
-| Informational texts or autodialed or prerecorded calls to a cell phone (appointment reminders, order status, account alerts) | Prior express consent. Giving you the number for that purpose generally counts. |
-| Marketing texts or autodialed or prerecorded telemarketing calls to a cell phone | Prior express written consent: a signed agreement (an electronic signature, such as a checkbox on a web form, can work) that clearly authorizes marketing messages to that number, and says consent isn't a condition of buying anything. |
+| Informational texts or autodialed or prerecorded calls to a cell phone (reminders, order status, account alerts) | Prior express consent. Giving you the number for that purpose generally counts. |
+| Marketing texts or autodialed or prerecorded telemarketing calls to a cell phone | Prior express written consent: a signed agreement (an electronic signature, such as a web form checkbox, can work) that clearly authorizes marketing messages to that number and says consent isn't a condition of buying anything. |
 | Prerecorded or artificial voice telemarketing calls to a residential landline | Prior express written consent. |
-| Live, manually dialed sales calls | No TCPA consent needed, but Do Not Call rules and calling hours apply. |
+| Live, manually dialed sales calls | No TCPA consent, but Do Not Call rules and calling hours apply. |
 | Emergency messages | Exempt. |
 
-In 2021 the Supreme Court narrowed the definition of an "automatic telephone dialing system" in *Facebook v. Duguid*, but many states have since passed broader laws, and prerecorded and artificial voice rules still apply, including to AI-generated voices. Plan as if consent rules apply to every automated text.
+In 2021 the Supreme Court narrowed the definition of an "automatic telephone dialing system" in *Facebook v. Duguid*, but many states have since passed broader laws, and the prerecorded and artificial voice rules still apply, including to AI-generated voices. Plan as if consent rules apply to every automated text.
 
-The FCC's 2023 "one-to-one consent" rule was struck down by a federal appeals court in January 2025 and isn't in effect. Consent still has to be clear, specific to your business, and provable.
+A federal appeals court struck down the FCC's 2023 "one-to-one consent" rule in January 2025. Consent still has to be clear, specific to your business, and provable.
 
 ## Do Not Call and calling hours
 
-- **National Do Not Call Registry.** Check numbers against it at least every 31 days before telemarketing calls or texts. Exceptions cover existing business relationships (within limits) and people who gave written permission.
+- **National Do Not Call Registry.** Check numbers at least every 31 days before telemarketing calls or texts. Exceptions cover existing business relationships (within limits) and people who gave written permission.
 - **Internal do-not-call list.** Keep your own, honor requests to stop, and have a written policy.
 - **Calling hours.** No telemarketing calls or texts before 8 a.m. or after 9 p.m. in the recipient's local time. Some states are narrower.
 - **Caller ID.** Telemarketers must transmit a number the consumer can call back to opt out.
 
 ## Opt-outs
 
-Since April 11, 2025, a consumer can revoke consent **in any reasonable way**, including replying stop, quit, end, revoke, opt out, cancel, or unsubscribe, or other words that clearly mean stop. Businesses must honor it **within a reasonable time, and no later than 10 business days**. You may send one confirmation text within five minutes, without marketing content, which can ask which message types to stop.
+Since April 11, 2025, a consumer can revoke consent **in any reasonable way**, including replying stop, quit, end, revoke, opt out, cancel, or unsubscribe, or other words that clearly mean stop. Honor it **within a reasonable time, and no later than 10 business days**. You may send one confirmation text within five minutes, without marketing content, which can ask which message types to stop.
 
-Under the FCC's September 30, 2026 order (FCC 26-67), a reply to an informational message, such as an appointment reminder, can be treated as covering only informational messages. A reply to a marketing message still ends all marketing from you. The order takes effect 30 days after Federal Register publication, so confirm the date on the FCC's site.
+Under the FCC's September 30, 2026 order (FCC 26-67), a reply to an informational message, such as a reminder, can be treated as covering only informational messages. A reply to a marketing message still ends all marketing from you. The order takes effect 30 days after Federal Register publication, so confirm the date on the FCC's site.
 
 The same order lets a business name its own exclusive opt-out method: a key press on a call, a reply text with a standard word, or a designated website or phone number. It must disclose the method in each call or text. A business that doesn't name one must honor any reasonable request.
 
 ## Carrier and state rules
 
-Carriers require business texters on ordinary 10-digit numbers to register their brand and campaigns (10DLC), and toll-free numbers need verification. They also expect clear opt-in, the business's name in messages, and working HELP and STOP keywords. Noncompliant traffic gets filtered or blocked.
+Carriers require business texters on ordinary 10-digit numbers to register their brand and campaigns (10DLC), and toll-free numbers need verification. They also expect clear opt-in, your business name in messages, and working HELP and STOP keywords. Noncompliant traffic gets filtered or blocked.
 
 Several states, including Florida and Oklahoma, have their own telemarketing laws with private lawsuits, stricter consent definitions, and narrower calling hours. Check the states where your customers live.
 
@@ -54,38 +54,32 @@ Several states, including Florida and Oklahoma, have their own telemarketing law
 1. **Text or call only numbers with the right consent** for that kind of message. A customer who gave their number for a reminder hasn't agreed to promotions.
 2. **Honor every opt-out**, by text, phone, email, or in person, and log it the same day.
 3. **Respect quiet hours** in the recipient's time zone, and **check Do Not Call lists** before sales calls and campaigns.
-4. **Use the approved system**, not personal phones, so consent and opt-outs are tracked.
-5. **Identify the business** in every message.
-6. **Ask before using AI voices** or prerecorded messages. They need consent.
+4. **Use the approved system**, not personal phones, so consent and opt-outs are tracked, and identify the business in every message.
+5. **Ask before using AI voices** or prerecorded messages. They need consent.
 
 ## What the business needs on paper
 
 - Consent records for each number: when, how, the exact language shown, and what the person agreed to.
 - A written do-not-call policy, the internal list, and proof of registry scrubs if you telemarket.
-- 10DLC or toll-free verification records.
-- Training records. See the [training log](../../templates/training-log.csv).
-- Contracts with texting vendors and lead sellers, with consent and compliance terms.
+- 10DLC or toll-free verification records, and vendor and lead-seller contracts with consent terms.
+- Training records ([training log](../../templates/training-log.csv)).
 
 ## Penalties and enforcement
 
 Consumers can sue for $500 per violation, up to $1,500 if willful or knowing, and class actions are common. State attorneys general and the FCC also enforce the law, and the FTC enforces the Telemarketing Sales Rule. Carriers can block your numbers.
 
-The costliest mistakes are buying leads without proof of consent naming your business, prechecked consent boxes or consent bundled into terms of service, and no record of what the opt-in form said. Ask an attorney to review your consent language and campaigns before a large send, and right away if you get a demand letter.
+The costliest mistakes are buying leads without proof of consent naming your business, prechecked consent boxes or consent bundled into terms of service, and no record of what the opt-in form said. Ask an attorney to review your consent language before a large send, and right away if you get a demand letter.
 
 ## Check yourself
 
 1. A customer gave their cell number to book an appointment. Can you send them a promotional text?
 2. A customer replies "please stop texting me." Does that count as an opt-out?
-3. What are the TCPA calling hours for telemarketing?
-4. What are the statutory damages for a TCPA violation?
 
 <details>
 <summary>Answers</summary>
 
 1. Not without prior express written consent for marketing. The number was given for appointment messages.
 2. Yes. Consent can be revoked in any reasonable way, not only with keywords.
-3. Between 8 a.m. and 9 p.m. in the recipient's local time, and some states are stricter.
-4. $500 per violation, up to $1,500 if willful or knowing.
 
 </details>
 
