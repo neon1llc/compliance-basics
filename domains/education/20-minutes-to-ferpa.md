@@ -82,7 +82,7 @@ Other states have their own student privacy laws. Check yours.
 
 ## What every staff member needs to know
 
-FERPA itself doesn't require training, but schools can't comply without it, and New York requires it each year. A session should leave people able to act on these points.
+FERPA itself doesn't require training, but schools can't comply without it, and New York requires it each year. Teach these points:
 
 1. **Treat student records as confidential by default.** Share only with school officials who need them for their job, or under a listed exception.
 2. **Check before you share with a parent.** Confirm identity, and check for custody orders or an eligible student. Once a student is 18 or in college, the rights are theirs.
@@ -117,11 +117,7 @@ The Student Privacy Policy Office investigates complaints. Its aim is voluntary 
 - Ignoring the 45-day deadline for record requests.
 - Vendor contracts with no deletion terms.
 
-This is training, not legal advice. For a disclosure you're unsure about, ask the school's counsel, or the Department of Education's Student Privacy Policy Office, before you release the record.
-
-## Next
-
-The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough into a day-by-day list of tasks.
+For a disclosure you're unsure about, ask the school's counsel, or the Department of Education's Student Privacy Policy Office, before you release the record.
 
 ## Check yourself
 

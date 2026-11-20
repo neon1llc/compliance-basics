@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping. People use these guides to make real decisions about their obligations, so accuracy comes first.
+People make real decisions from these guides, so accuracy comes first.
 
 ## What helps most
 
@@ -17,7 +17,7 @@ domains/<domain>/
   20-days-to-comply.md       one plan per domain, twenty rows, one task a day
 ```
 
-Each walkthrough follows the same order: who it covers, what it asks in plain words, what staff need to know, what the business needs on paper, penalties and enforcement, common mistakes, a link to the plan, "Check yourself" questions with answers, and Sources.
+Each walkthrough follows the same order: who it covers, what it asks in plain words, what staff need to know, what the business needs on paper, penalties and enforcement, common mistakes, "Check yourself" questions with answers, and Sources.
 
 Every page opens with front matter:
 

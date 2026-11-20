@@ -4,7 +4,7 @@ description: "How to turn any walkthrough in this repository into a short traini
 reviewed: 2026-11-12
 ---
 
-Most rules in this repository require or expect training, and nearly all expect proof it happened. This guide is for the owner, office manager, or IT lead who has to run that training without a learning management system or a big budget.
+Most rules here require or expect training, and nearly all expect proof it happened. This guide is for the owner, office manager, or IT lead who runs that training without a learning management system or a big budget.
 
 ## Pick the format
 
@@ -34,7 +34,7 @@ Pick by risk. People who handle patient records, card data, client tax files, or
 | 22 to 27 | The "Check yourself" questions, answered out loud. |
 | 27 to 30 | Who to call, how to report, and where the policies live. Hand out the acknowledgment form. |
 
-Keep the tone practical. People report mistakes faster when reporting is expected and honest errors aren't punished. Say so plainly, and make sure your sanctions policy agrees for good-faith reporting.
+Keep the tone practical. People report mistakes faster when honest errors aren't punished. Say so plainly, and make sure your sanctions policy agrees for good-faith reports.
 
 ## For a workshop, add a scenario
 
@@ -49,7 +49,7 @@ Pick one and work it as a group, step by step.
 
 ## Keep the records
 
-Training that isn't recorded may as well not have happened when an investigator, auditor, or customer asks. For each session, record:
+An investigator, auditor, or customer will ask for proof. For each session, record:
 
 - the date, format, and length,
 - the topic and the walkthrough or materials used, with their version or review date,
@@ -68,13 +68,13 @@ The [training log](../templates/training-log.csv) has these columns. Keep record
 
 ## Measure whether it worked
 
-Attendance is a record, not a result. Better signs are more incident reports (including near misses), fewer repeat mistakes, faster responses to records requests, and fewer clicks on phishing tests. Pick one or two and check them before the next session.
+Attendance is a record, not a result. Better signs are more incident reports (near misses included), fewer repeat mistakes, faster responses to records requests, and fewer clicks on phishing tests. Pick one or two and check them before the next session.
 
 ## Related material
 
-- [Phishing Awareness Kit](https://github.com/neon1llc/phishing-awareness-kit), a ready-made one-hour security awareness session with slides and exercises.
-- [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness), a SOC 2 course with a workshop facilitator guide.
-- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go), plain-language security training and practice cards.
+- [Phishing Awareness Kit](https://github.com/neon1llc/phishing-awareness-kit): a one-hour security awareness session with slides and exercises.
+- [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness): a SOC 2 course with a workshop facilitator guide.
+- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go): plain-language security practice cards.
 
 ## Sources
 

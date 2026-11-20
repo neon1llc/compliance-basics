@@ -96,10 +96,6 @@ For a ready-made awareness session, see [Phishing Awareness Kit](https://github.
 - Treating a framework as a one-time project instead of a cycle.
 - No one reading the alerts the tools generate.
 
-## Next
-
-The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough into a day-by-day list of tasks.
-
 ## Check yourself
 
 1. Which CSF 2.0 function is new, and what does it cover?

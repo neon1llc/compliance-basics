@@ -47,7 +47,7 @@ Schools also have FERPA obligations for the same data. See [20 minutes to FERPA]
 
 ## What the team needs to know
 
-COPPA sets no training requirement, but its written security program expects people to know their part. Product, engineering, marketing, and support staff should be able to act on these points.
+COPPA sets no training requirement, but its written security program expects people to know their part. Product, engineering, marketing, and support staff should know these points.
 
 1. **Know whether the service is child-directed or mixed audience**, and where the age screen sits.
 2. **Collect nothing from a child before consent** except what an exception allows.
@@ -80,11 +80,7 @@ The FTC and state attorneys general enforce COPPA. Civil penalties can reach $53
 - Relying on school consent while also using the data for product marketing.
 - No written security program, which became mandatory with the 2025 amendments.
 
-This is training, not legal advice. Ask an attorney whether your service is child-directed and whether your consent method meets the rule.
-
-## Next
-
-The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough into a day-by-day list of tasks.
+Ask an attorney whether your service is child-directed and whether your consent method meets the rule.
 
 ## Check yourself
 

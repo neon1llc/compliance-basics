@@ -6,11 +6,9 @@ rules: "HIPAA Privacy, Security, and Breach Notification Rules (45 CFR Parts 160
 reviewed: 2026-11-19
 ---
 
-**Read this if** you work at a medical, dental, behavioral health, or therapy practice, a pharmacy, a lab, a health plan, or a billing company, or you sell a service to one of them that touches patient information. That includes IT support firms, cloud hosts, answering services, shredding companies, and software vendors.
+**Read this if** you work at a medical, dental, behavioral health, or therapy practice, a pharmacy, a lab, a health plan, or a billing company, or you sell a service to one that touches patient information. That includes IT support firms, cloud hosts, answering services, shredding companies, and software vendors.
 
 ## Who HIPAA covers
-
-HIPAA's privacy and security rules apply to two kinds of organizations.
 
 **Covered entities** are health plans, health care clearinghouses, and health care providers who send health information electronically in standard transactions, such as billing an insurer or checking eligibility. A therapist who takes only cash and never bills insurance electronically may not be covered. Almost every practice that takes insurance is.
 
@@ -24,7 +22,7 @@ CMS, part of HHS, has a [covered entity decision tool](https://www.cms.gov/prior
 
 Protected health information (PHI) is health information that identifies a person, or could reasonably be used to, and that a covered entity or business associate holds or sends in any form: paper, electronic, or spoken.
 
-"Health information" is broad. It covers a diagnosis, a test result, or a prescription, and also the fact that someone is a patient, an appointment time, a billing record, and a photo taken in an exam room. Identifiers include names, addresses, dates tied to the person (birth, admission, discharge), phone numbers, email addresses, account and record numbers, device serial numbers, IP addresses, and full face photos.
+"Health information" is broad. It covers a diagnosis, test result, or prescription, and also the fact that someone is a patient, an appointment time, a billing record, and a photo taken in an exam room. Identifiers include names, addresses, dates tied to the person (birth, admission, discharge), phone numbers, email addresses, account and record numbers, device serial numbers, IP addresses, and full face photos.
 
 Two things are not PHI under HIPAA: employment records a covered entity keeps as an employer, such as an employee's sick note in an HR file, and education records covered by FERPA. Properly de-identified information is no longer PHI.
 
@@ -52,7 +50,7 @@ The Security Rule covers electronic PHI (ePHI). It requires administrative, phys
 - **Contingency planning.** Backups, a disaster recovery plan, and a way to keep caring for patients when systems are down.
 - **Security awareness and training** for the whole workforce, managers included.
 
-Some parts of the Security Rule are "addressable." That does not mean optional. The organization decides whether the safeguard is reasonable for it, and if not, documents why and what it does instead.
+Some parts of the Security Rule are "addressable," which does not mean optional. The organization decides whether the safeguard is reasonable for it, and if not, documents why and what it does instead.
 
 ### The Breach Notification Rule
 
@@ -75,7 +73,7 @@ HIPAA requires covered entities to train all workforce members on the privacy po
 
 The rule sets three timing points for privacy training: new workforce members within a reasonable time after they start, affected staff within a reasonable time after a material policy change, and everyone when the program begins. It does not say "annually." Annual training is still the norm and the safer practice, because people forget, threats change, and an annual record is easy to show an investigator.
 
-A training session should leave people able to act on these points.
+Teach these points:
 
 1. **Look only at what your job needs.** Opening a neighbor's, coworker's, relative's, or celebrity's chart out of curiosity is a violation even if you tell no one. Record systems log every view.
 2. **Verify before you share.** Confirm a caller's identity. Check the fax number, email address, and name on the envelope before you send.
@@ -114,7 +112,7 @@ State attorneys general can also bring HIPAA cases for their residents.
 
 ## What's changing
 
-- **Security Rule update.** HHS proposed a major rewrite in January 2025. It would remove the addressable label from most safeguards, require encryption and multi-factor authentication with few exceptions, and require a written asset inventory and network map. As of this guide's review date it is still a proposal, and HHS's regulatory agenda has moved its target date more than once. Most of it is good practice already, so working toward it now isn't wasted.
+- **Security Rule update.** HHS proposed a major rewrite in January 2025. It would remove the addressable label from most safeguards, require encryption and multi-factor authentication with few exceptions, and require a written asset inventory and network map. As of this guide's review date it is still a proposal, and HHS has moved its target date more than once. Most of it is good practice already.
 - **Substance use disorder records (42 CFR Part 2).** A 2024 rule brought Part 2 closer to HIPAA. Programs covered by Part 2 had to comply by February 16, 2026.
 - **Reproductive health privacy rule.** A 2024 HIPAA rule adding protections for reproductive health information was vacated by a federal court in Texas in June 2025. Check with counsel before changing your Notice of Privacy Practices or forms based on it.
 
@@ -128,11 +126,7 @@ State attorneys general can also bring HIPAA cases for their residents.
 - Ignoring access requests, or charging per-page fees for electronic copies.
 - Website tracking tools, such as ad pixels on appointment pages, that send visitor information to advertising companies. OCR has warned about this, and a federal court narrowed that guidance in 2024, but class action lawsuits continue.
 
-This is training, not legal advice. Ask a health care attorney whether you're a covered entity, whether an incident is a reportable breach, and how to answer an inquiry from OCR.
-
-## Next
-
-The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough into a day-by-day list of tasks.
+Ask a health care attorney whether you're a covered entity, whether an incident is a reportable breach, and how to answer an inquiry from OCR.
 
 ## Check yourself
 

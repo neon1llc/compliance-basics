@@ -62,10 +62,6 @@ Staff in a SOC 2 company follow the same habits as any secure workplace (see [20
 
 This is training, not an audit or assurance. Only a licensed CPA firm can issue a SOC 2 report, and nothing here promises an auditor will accept your evidence.
 
-## Next
-
-The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough into a day-by-day list of tasks.
-
 ## Check yourself
 
 1. Is SOC 2 a certification?

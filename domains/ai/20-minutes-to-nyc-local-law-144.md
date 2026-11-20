@@ -44,11 +44,7 @@ Civil penalties are up to $500 for a first violation and each additional violati
 - Vendor contracts that require the vendor to support audits and share data.
 - Training records for recruiters and hiring managers. See the [training log](../../templates/training-log.csv).
 
-This is training, not legal advice. The bias audit has to come from an independent auditor, and an attorney can tell you whether a tool counts as an AEDT.
-
-## Next
-
-The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough into a day-by-day list of tasks.
+The bias audit has to come from an independent auditor, and an attorney can tell you whether a tool counts as an AEDT.
 
 ## Check yourself
 

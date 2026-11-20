@@ -96,10 +96,6 @@ California's updated regulations, effective January 1, 2026, add requirements fo
 - Keeping former customers' data indefinitely.
 - No plan for the 30-day New York deadline.
 
-## Next
-
-The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough into a day-by-day list of tasks.
-
 ## Check yourself
 
 1. Does the SHIELD Act apply to a New Jersey company with New York customers?

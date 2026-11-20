@@ -5,7 +5,7 @@ domain: Financial services
 reviewed: 2026-11-12
 ---
 
-Read [20 minutes to the FTC Safeguards Rule](20-minutes-to-ftc-safeguards.md) first. Each day is one to two hours of work for the person leading the effort. The 20 days are a learning pace, not a deadline. Finishing the plan doesn't make a business compliant, and this plan is training, not legal advice or a compliance determination. If a step is already done, check it and move on. Keep the order: inventory before risk, and risk before policy.
+Read [20 minutes to the FTC Safeguards Rule](20-minutes-to-ftc-safeguards.md) first. Each day is one to two hours of work for the person leading the effort. The 20 days are a learning pace, not a deadline. Finishing the plan doesn't make a business compliant. If a step is already done, check it and move on. Keep the order: inventory before risk, and risk before policy.
 
 ## The plan
 

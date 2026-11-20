@@ -59,7 +59,7 @@ for (const file of files) {
   // Walkthroughs keep their shape and report a reading time
   if (/^20-minutes-to-.+\.md$/.test(name)) {
     if (!/^rules:\s*\S/m.test(text)) problems.push(`${rel}: front matter has no rules`);
-    for (const h of ["## Next", "## Check yourself", "## Sources"]) {
+    for (const h of ["## Check yourself", "## Sources"]) {
       if (!text.includes(`\n${h}\n`)) problems.push(`${rel}: missing "${h}"`);
     }
     const words = prose(text).split(/\s+/).filter(Boolean).length;

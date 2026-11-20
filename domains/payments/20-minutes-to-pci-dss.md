@@ -6,11 +6,11 @@ rules: "PCI Data Security Standard (PCI DSS) v4.0.1"
 reviewed: 2026-11-19
 ---
 
-**Read this if** your business takes credit or debit cards in any way: a terminal at the counter, a phone order, an online checkout, or an invoice with a pay link. It also applies to service providers that handle card data for others or can affect its security, such as payment processors, hosting providers, and IT firms that manage a merchant's network.
+**Read this if** your business takes credit or debit cards in any way: a counter terminal, a phone order, an online checkout, or an invoice with a pay link. It also applies to service providers that handle card data or can affect its security, such as processors, hosts, and IT firms that manage a merchant's network.
 
 ## What PCI DSS is
 
-The Payment Card Industry Data Security Standard (PCI DSS) is a set of security requirements for protecting card data. The PCI Security Standards Council publishes it. The major card brands (American Express, Discover, JCB, Mastercard, and Visa) founded the Council.
+The Payment Card Industry Data Security Standard (PCI DSS) is a set of security requirements for protecting card data. The PCI Security Standards Council, founded by the major card brands, publishes it.
 
 PCI DSS is not a law. It reaches you through contracts. When you sign up with a payment processor or bank (your "acquirer"), the agreement requires you to comply with PCI DSS and the card brands' rules. The acquirer or the card brand decides how you prove it and what happens if you don't.
 
@@ -41,7 +41,7 @@ The SAQ type depends on how you take payments. Common examples:
 | Typing card numbers into a processor's virtual terminal in a web browser | SAQ C-VT |
 | Anything else, including storing card numbers | SAQ D |
 
-Your acquirer tells you which one to file. If they don't, ask. Choosing the wrong SAQ is a common way to be out of compliance without knowing it.
+Your acquirer tells you which one to file. If they don't, ask. A wrong SAQ is a common way to be out of compliance without knowing it.
 
 The biggest lever a small business has is to **keep card data out of its own systems**. Use a hosted payment page online, P2PE or tokenizing terminals in the store, and never store card numbers yourself. Each moves you to a shorter SAQ.
 
@@ -74,7 +74,7 @@ Requirement 12.6 sets out the training:
 - At least every 12 months, each person acknowledges that they've read and understood the security policy and procedures.
 - Staff who handle card terminals also learn to spot tampering and device substitution (requirement 9.5.1.3).
 
-A session for front-line staff should leave people able to act on these points.
+Front-line staff should:
 
 1. **Never write down card numbers** or security codes. If a phone order can't go straight into the terminal or virtual terminal, ask your manager for the approved process.
 2. **Never accept or send card numbers by email, text, or chat.** If a customer sends one, don't reply with it, tell your manager, and delete it as your procedure says.
@@ -115,11 +115,7 @@ After a breach, costs usually come from several places: a forensic investigation
 - Assuming the processor "handles PCI" and filing nothing.
 - No check for skimmers on terminals, gas pumps, or self-checkout.
 
-This is training, not legal advice or a PCI assessment. Your acquirer decides which SAQ you file. Hire a Qualified Security Assessor for an on-site assessment, and a PCI Forensic Investigator and an attorney after a suspected compromise.
-
-## Next
-
-The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough into a day-by-day list of tasks.
+Hire a Qualified Security Assessor for an on-site assessment, and a PCI Forensic Investigator and an attorney after a suspected compromise.
 
 ## Check yourself
 

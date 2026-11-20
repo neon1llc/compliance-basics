@@ -82,11 +82,7 @@ No law requires specific accessibility training for private businesses, but acce
 - Third-party booking or payment widgets nobody tested.
 - No contact method for people who hit a barrier.
 
-This is training, not legal advice or an accessibility audit. An accessibility specialist can test your site against WCAG. Ask an attorney before you answer a demand letter or lawsuit.
-
-## Next
-
-The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough into a day-by-day list of tasks.
+An accessibility specialist can test your site against WCAG. Ask an attorney before you answer a demand letter or lawsuit.
 
 ## Check yourself
 

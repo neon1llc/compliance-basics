@@ -60,7 +60,7 @@ Tax and accounting firms face the same rule from a second direction. The IRS rem
 
 ## What every staff member needs to know
 
-The rule says to train personnel in security awareness, updated as risks change. It sets no frequency, so most firms train at hire and at least once a year, plus short reminders during tax season or other peaks. A session should leave people able to act on these points.
+The rule says to train personnel in security awareness, updated as risks change. It sets no frequency, so most firms train at hire and at least once a year, plus short reminders during tax season or other peaks. Teach these points:
 
 1. **Use MFA everywhere it's offered**, and never approve a sign-in prompt you didn't start.
 2. **Spot phishing and pretexting.** Tax season brings fake "new client" emails with malicious attachments, fake IRS or e-file provider messages, and calls asking for client details. Report them.
@@ -100,11 +100,7 @@ The FTC enforces the rule through investigations and lawsuits. Most cases end wi
 - Counting only current clients when deciding on the under-5,000 exemption.
 - No plan for the 30-day FTC deadline.
 
-This is training, not legal advice. Ask an attorney whether you're a financial institution under the rule, whether an event triggers an FTC report, and how to answer an FTC inquiry.
-
-## Next
-
-The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough into a day-by-day list of tasks.
+Ask an attorney whether you're a financial institution under the rule, whether an event triggers an FTC report, and how to answer an FTC inquiry.
 
 ## Check yourself
 

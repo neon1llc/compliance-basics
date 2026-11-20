@@ -4,7 +4,7 @@ description: "A one-page form for staff to confirm they completed training and r
 reviewed: 2026-11-12
 ---
 
-Copy this form, replace the parts in brackets, and keep each signed copy with the training record. A signature from an e-signature tool or a checkbox in a form tool works if it records who signed and when.
+Replace the bracketed parts and keep each signed copy with the training record. An e-signature or form checkbox works if it records who signed and when.
 
 ---
 

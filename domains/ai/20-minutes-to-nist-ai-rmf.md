@@ -78,11 +78,7 @@ A one- or two-page policy covers most small businesses. Include:
 - Marketing that overstates what an AI feature does.
 - Using AI screening in hiring without checking local law.
 
-This is training, not legal advice. Ask an attorney before you use AI for hiring, lending, or other decisions about people, or if you sell AI products in the EU.
-
-## Next
-
-The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough into a day-by-day list of tasks.
+Ask an attorney before you use AI for hiring, lending, or other decisions about people, or if you sell AI products in the EU.
 
 ## Check yourself
 

@@ -80,11 +80,7 @@ The FTC enforces CAN-SPAM, along with state attorneys general and internet acces
 - Unsubscribe links that require logging in.
 - Sales teams sending prospecting sequences from tools that don't respect the suppression list.
 
-This is training, not legal advice. Ask an attorney about email to recipients outside the United States, or if you get an inquiry from the FTC or a state.
-
-## Next
-
-The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough into a day-by-day list of tasks.
+Ask an attorney about email to recipients outside the United States, or if you get an inquiry from the FTC or a state.
 
 ## Check yourself
 

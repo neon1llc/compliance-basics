@@ -102,7 +102,7 @@ GDP keeps products safe between the factory and the patient: temperature control
 
 ## What every workforce member needs to know
 
-Training for GxP roles is task specific, so a general session can't replace training on each person's own SOPs. Everyone in or supporting a GxP area should still be able to act on these points.
+Training for GxP roles is task specific, so a general session can't replace training on each person's own SOPs. Everyone in or supporting a GxP area should still know these points.
 
 1. **Follow the current approved procedure.** If you can't follow it as written, stop and raise it. Don't improvise and fix the paperwork later.
 2. **Record it when you do it.** Write or enter results at the time, in the approved place.
@@ -142,10 +142,6 @@ Lack of adequate training is a regular citation in warning letters. So are incom
 - Backdating, or completing records at the end of the shift.
 
 This is training, not regulatory advice. Validation, inspection readiness, and submissions need qualified quality and regulatory professionals, and counsel for enforcement actions.
-
-## Next
-
-The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough into a day-by-day list of tasks.
 
 ## Check yourself
 

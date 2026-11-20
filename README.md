@@ -2,12 +2,12 @@
 
 Plain-language compliance guides and training for small businesses, from [neon1](https://neon1.tech).
 
-This is training, not legal advice or a compliance determination. Whether a business meets a rule is for its lawyer, auditor, or regulator to decide.
+**This is training, not legal advice or a compliance determination.** The guides explain rules in plain words and point to the official text, and rules change. Whether a business meets a rule is for its lawyer, auditor, or regulator to decide. For decisions with real consequences, such as whether a breach must be reported, talk to a qualified attorney. Each page shows when it was last reviewed.
 
-**Status:** the scope is stable. This repository gets accuracy and source updates, and no new modules for now.
+**Status:** stable. Accuracy and source updates only, no new modules for now.
 
 - **Walkthroughs:** one rule each, in 20 minutes or less: who it covers, what it asks, what staff need to know, and the penalties, with primary sources.
-- **20-day learning plans:** each domain's plan turns the walkthroughs into one task a day. The 20 days are a learning pace, not a timeline or a promise of being compliant at the end.
+- **20-day learning plans:** one task a day, from the walkthroughs. The 20 days are a learning pace, not a timeline or a promise of compliance.
 
 ## Domains
 
@@ -36,16 +36,12 @@ Not sure where to start? Every business has [privacy](domains/privacy/20-minutes
 
 Owners, office managers, and IT leads at small and midsize businesses and their vendors, plus trainers and consultants who want open material to teach from. No legal background needed.
 
-## What this isn't
-
-These guides explain rules in plain words and point to the official text. They aren't legal advice, and rules change. Each page shows the date it was last reviewed. For decisions with real consequences, such as whether a breach must be reported, talk to a qualified attorney.
-
-## Related neon1 projects
+## Related
 
 - [SOC 2 Readiness](https://github.com/neon1llc/soc-2-readiness): hands-on SOC 2 readiness course.
 - [Phishing Awareness Kit](https://github.com/neon1llc/phishing-awareness-kit): a one-hour security awareness session kit.
-- [Household Tech Handbook](https://github.com/neon1llc/household-tech-handbook): a household tech handbook.
-- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go): plain-language security training.
+- [Household Tech Handbook](https://github.com/neon1llc/household-tech-handbook): home devices and accounts.
+- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go): plain-language security practice cards.
 
 ## How a domain is laid out
 
@@ -59,7 +55,7 @@ node tools/check.mjs
 
 | What | License | What it means |
 |---|---|---|
-| Written material (everything except `tools/` and `.github/`) | [CC BY-SA 4.0](LICENSE) | Share it, teach from it, adapt it, even commercially. Credit it as *"Based on Compliance Basics by neon1 (neon1.tech), CC BY-SA 4.0"* and share your changes under the same license. |
+| Written material (everything except `tools/` and `.github/`) | [CC BY-SA 4.0](LICENSE) | Share, teach from, and adapt it, even commercially. Credit it as *"Based on Compliance Basics by neon1 (neon1.tech), CC BY-SA 4.0"* and share changes under the same license. |
 | Code (`tools/`, `.github/`) | [MIT](LICENSE-CODE) | Use it for anything, keeping the copyright notice. |
 | The Compliance Basics and neon1 names and the neon1 logo | Reserved | Not covered by either license. See [TRADEMARK.md](TRADEMARK.md). |
 

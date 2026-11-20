@@ -87,11 +87,7 @@ Consumers can sue for $500 per violation, up to $1,500 if willful or knowing, an
 - Prechecked consent boxes, or consent bundled into terms of service.
 - No record of what the opt-in form said when the person signed up.
 
-This is training, not legal advice. Ask an attorney to review your consent language and campaigns before a large send, and right away if you get a demand letter.
-
-## Next
-
-The [20-day plan](20-days-to-comply.md) for this domain turns the walkthrough into a day-by-day list of tasks.
+Ask an attorney to review your consent language and campaigns before a large send, and right away if you get a demand letter.
 
 ## Check yourself
 
