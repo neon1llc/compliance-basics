@@ -17,11 +17,11 @@ There's no single U.S. AI law, but existing laws apply when AI is involved:
 - **Discrimination.** Employment, lending, housing, and insurance decisions are covered whether a person or software makes them.
 - **Contracts and copyright.** Customer contracts may limit where their data can go.
 
-Some places add AI-specific rules. New York City requires bias audits and notices for automated hiring tools (see [20 minutes to NYC Local Law 144](20-minutes-to-nyc-local-law-144.md)). Colorado replaced its 2024 AI law in May 2026 with a disclosure law for automated consumer decisions, effective January 1, 2027.
+Some places add AI-specific rules. New York City requires bias audits and notices for automated hiring tools (see [20 minutes to NYC Local Law 144](20-minutes-to-nyc-local-law-144.md)). In May 2026, Colorado repealed and reenacted its 2024 AI law with new requirements for AI used in consequential decisions, effective January 1, 2027.
 
 ## The EU AI Act
 
-It applies to businesses that provide or use AI systems in the EU, including U.S. businesses whose output is used there. Its **AI literacy** duty took effect February 2, 2025. Article 4 requires providers and deployers to take measures for the AI literacy of staff who use AI, given their knowledge and context of use. A 2026 amendment (the "AI Omnibus") softened the wording and moved most high-risk rules to December 2027 and August 2028. The step is the same: train the people who use AI tools, and keep a record.
+It applies to businesses that provide or use AI systems in the EU, including U.S. businesses whose output is used there. Its **AI literacy** duty took effect February 2, 2025. Article 4 requires providers and deployers to support AI literacy among staff and others who operate or use AI on their behalf, considering their skills and the context. It does not require a guaranteed literacy level for each person. A 2026 amendment softened the wording and delayed many high-risk requirements until December 2, 2027, or August 2, 2028. A practical step is to train staff who use AI tools and keep records.
 
 ## The NIST AI Risk Management Framework
 
@@ -79,8 +79,8 @@ Ask an attorney before using AI for decisions about people, or if you sell AI pr
 ## Sources
 
 - NIST, [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework), [AI RMF 1.0 (NIST AI 100-1)](https://doi.org/10.6028/NIST.AI.100-1) (January 2023), and [Generative AI Profile (NIST AI 600-1)](https://doi.org/10.6028/NIST.AI.600-1) (July 2024).
-- [Regulation (EU) 2024/1689](https://eur-lex.europa.eu/eli/reg/2024/1689/oj), the EU Artificial Intelligence Act, Article 4 (AI literacy).
-- Future of Privacy Forum, [The AI Act Implementation Timeline: What Changes Under the AI Omnibus?](https://fpf.org/blog/the-ai-act-implementation-timeline-what-changes-under-the-ai-omnibus) (2026).
+- [Regulation (EU) 2024/1689, consolidated through July 27, 2026](https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27), the EU Artificial Intelligence Act, Article 4 and Article 113.
+- [Regulation (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj), the Digital Omnibus on AI, which amends Regulation (EU) 2024/1689.
 - FTC, [FTC Announces Crackdown on Deceptive AI Claims and Schemes](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-crackdown-deceptive-ai-claims-schemes) (September 2024), and [Trade Regulation Rule on the Use of Consumer Reviews and Testimonials](https://www.ecfr.gov/current/title-16/chapter-I/subchapter-D/part-465) (16 CFR Part 465).
 - Colorado General Assembly, [SB 26-189](https://leg.colorado.gov/bills/sb26-189) (2026), replacing SB 24-205.
 - NYC Department of Consumer and Worker Protection, [Automated Employment Decision Tools](https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page).
