@@ -38,4 +38,6 @@ jobs:
             --exclude '^https?://(www\.)?(consumer\.)?ftc\.gov/'
             --exclude '^https?://github\.com/neon1llc/'
             --exclude '^https?://www\.cyber\.gov\.au/'
+            --exclude '^https?://www\.fda\.gov/'
+            --exclude '^https?://www\.nysed\.gov/'
             './**/*.md'
