@@ -54,7 +54,7 @@ A breach is an impermissible use or disclosure of unsecured PHI. Any such incide
 - **Patients** get written notice without unreasonable delay and no later than 60 calendar days after discovery.
 - **HHS** gets notice at the same time if 500 or more people are affected. Smaller breaches go in a log and are reported to HHS within 60 days after the end of the calendar year.
 - **The media** gets notice when more than 500 residents of one state or jurisdiction are affected.
-- **Business associates** tell the covered entity, also within 60 days of discovery. Many BAAs set a shorter deadline, often 5 to 10 days.
+- **Business associates** tell the covered entity within 60 days of discovery. Check your agreement for a shorter deadline.
 
 Properly encrypted PHI, with the key kept safe, is "secured," and losing it is not a reportable breach. Full-disk encryption on laptops and phones is one of the best investments a small practice can make. State breach laws can add their own deadlines.
 
