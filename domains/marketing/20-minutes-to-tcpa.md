@@ -39,7 +39,7 @@ A federal appeals court struck down the FCC's 2023 "one-to-one consent" rule in 
 
 Since April 11, 2025, a consumer can revoke consent **in any reasonable way**, including replying stop, quit, end, revoke, opt out, cancel, or unsubscribe, or other words that clearly mean stop. Honor it **within a reasonable time, and no later than 10 business days**. You may send one confirmation text within five minutes, without marketing content, which can ask which message types to stop.
 
-Under the FCC's September 30, 2026 order (FCC 26-67), a reply to an informational message, such as a reminder, can be treated as covering only informational messages. A reply to a marketing message still ends all marketing from you. The order takes effect 30 days after Federal Register publication, so confirm the date on the FCC's site.
+Under the FCC's September 30, 2026 order (FCC 26-67), a reply to an informational message, such as a reminder, can be treated as covering only informational messages. A reply to a marketing message still ends all marketing from you. The order took effect November 25, 2026.
 
 The same order lets a business name its own exclusive opt-out method: a key press on a call, a reply text with a standard word, or a designated website or phone number. It must disclose the method in each call or text. A business that doesn't name one must honor any reasonable request.
 
@@ -87,7 +87,7 @@ The costliest mistakes are buying leads without proof of consent naming your bus
 
 - [47 U.S.C. § 227](https://www.law.cornell.edu/uscode/text/47/227), the TCPA, including private actions in § 227(b)(3) and (c)(5).
 - [47 CFR § 64.1200](https://www.ecfr.gov/current/title-47/section-64.1200), FCC TCPA rules: consent, calling hours, Do Not Call, and revocation.
-- FCC, [Telephone Consumer Protection Act rules](https://www.fcc.gov/general/telemarketing-and-robocalls), [Order delaying part of the revocation rules](https://docs.fcc.gov/public/attachments/DA-25-312A1.pdf), DA 25-312 (April 2025), [extension to January 31, 2027](https://docs.fcc.gov/public/attachments/DA-26-12A1.pdf), DA 26-12 (January 2026), and [Report and Order](https://docs.fcc.gov/public/attachments/FCC-26-67A1.pdf), FCC 26-67 (adopted September 30, 2026), narrowing the rule.
+- FCC, [Telephone Consumer Protection Act rules](https://www.fcc.gov/general/telemarketing-and-robocalls), [Order delaying part of the revocation rules](https://docs.fcc.gov/public/attachments/DA-25-312A1.pdf), DA 25-312 (April 2025), [extension to January 31, 2027](https://docs.fcc.gov/public/attachments/DA-26-12A1.pdf), DA 26-12 (January 2026), and [Report and Order](https://docs.fcc.gov/public/attachments/FCC-26-67A1.pdf), FCC 26-67 (adopted September 30, 2026), narrowing the rule, with its [Federal Register publication](https://www.federalregister.gov/documents/2026/10/26/2026-21821/enhancing-the-ability-of-consumers-to-control-the-robocalls) (October 26, 2026, effective November 25, 2026).
 - *Facebook, Inc. v. Duguid*, [592 U.S. 395 (2021)](https://supreme.justia.com/cases/federal/us/592/19-511/).
 - *Campbell-Ewald Co. v. Gomez*, [577 U.S. 153 (2016)](https://supreme.justia.com/cases/federal/us/577/14-857/), treating text messages as calls under the TCPA.
 - *Insurance Marketing Coalition Ltd. v. FCC*, No. 24-10277 (11th Cir. January 24, 2025), vacating the one-to-one consent rule.

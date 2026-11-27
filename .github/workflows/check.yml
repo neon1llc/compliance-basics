@@ -34,7 +34,7 @@ jobs:
         with:
           args: >
             --verbose --no-progress --include-fragments=anchor-only --max-retries 1
-            --accept '200,403,406,429,503'
+            --accept '200,202,403,406,429,503'
             --exclude '^https?://(www\.)?(consumer\.)?ftc\.gov/'
             --exclude '^https?://github\.com/neon1llc/'
             --exclude '^https?://www\.cyber\.gov\.au/'
